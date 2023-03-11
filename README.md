@@ -6,6 +6,7 @@
 
 # 皮肤列表
 1，小埋风格皮肤<br />
+包含皮肤，字体面板，及支持深色模式
 地址：
 [茶茶皮肤-全身版v2.4](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%85%A8%E8%BA%AB%E7%89%88v2.4.css) <br />
 <img width="408" alt="iShot_2023-03-11_16 32 03" src="https://user-images.githubusercontent.com/16641863/224474879-5509cf2d-ee0c-41ae-a4e3-f8f4b493fcf4.png">![tex](https://user-images.githubusercontent.com/16641863/224474884-557ed231-6a54-45f9-80af-97d5aaff69cf.png)![Mar-11-2023 16-37-43](https://user-images.githubusercontent.com/16641863/224474887-8b618aad-15d7-40a4-9975-428086c4c30e.gif)
