@@ -68,7 +68,6 @@ body .FigmaExApp .ExBar .action-list::-webkit-scrollbar-thumb {
     border: 2px solid #3A384B;
 	border-radius: 4px;
 }
-
 /*底部颜色*/
 body .FigmaExApp .ExBar .reseize-hand {
   /* background: #FAFA20;*/
@@ -94,15 +93,13 @@ body .FigmaExApp .ActionItem {
 	padding: 2px 5px;
 	border:2px solid #3A384B;
 	height: 40px;
-	background: #7EFE9F;
-	
+	background: #7EFE9F;	
 }
 /* 列表-hover */
 body .FigmaExApp .ActionItem:hover {
     background: #FCE309;
-	border-radius: 16px;
+	border-radius: 16px;	
 }
-
 /*插件标题字体颜色*/
 body .FigmaExApp .ActionItem .action-info {
     font-size: 12px;
@@ -127,12 +124,10 @@ body .FigmaExApp .ActionItem .buttons .star-but.isStar {
     height: 22px;
     background: linear-gradient(180deg, #ff7e00 0%, #0234ff 100%);
 }
-
 /*插件名字加粗*/
 body .FigmaExApp .ActionItem .action-info .name {
     font-weight: 800;
 }
-
 /*===========勾选紧凑布局后大小-开始====================*/
 body .FigmaExApp.compact-ui .ExBar .ActionItem {
     padding: 2px 4px;
@@ -159,8 +154,7 @@ body .figmaex-localfont-but {
     -webkit-mask-size: 60% 60%;
     background: #ff8905;
 	border-radius: 40%;
-	border: 6px solid #fff;
-   
+	border: 6px solid #fff;  
 }
 body .figmaex-localfont-but:hover {
 	background: #40c10c;
