@@ -4,7 +4,6 @@
 body .FigmaExApp .ExBar{
 	box-sizing: border-box;
 	box-shadow: -20px 20px 15px rgba(0, 0, 0, 0.07);
-	backdrop-filter: blur(7.5px);	
 	border-radius: 16px;
 	border: 3px solid #fff;	
 	padding-bottom: 24px;
@@ -48,8 +47,6 @@ body .FigmaExApp .ActionItem .action-info .note-name {
 /*列表-背景色*/
 body .FigmaExApp .ActionItem {	
 	background: rgba(255, 255, 255, 0.8);
-	backdrop-filter: blur(7.5px);
-	backdrop-filter: blur(7.5px);
 	border-radius: 16px;
 	border: 3px solid #FFFFFF;
 	margin: 2px 2px;
@@ -67,13 +64,16 @@ body .FigmaExApp .ActionItem:hover {
 	/* background: linear-gradient(90.13deg, #83FFB4 -1.25%, #FFEF63 51.96%); */
 	border-radius: 16px;
 }
+/* 列表-拖拽r */
+body .FigmaExApp.expanded .ExBar.expanded .ActionItem{
+	border: 3px solid #fff;
+}
 /*.logo*/
 body .FigmaExApp .ExBar .header .logo-but {
     right: 7px;
 	border-radius: 12px;
 	box-shadow: 0px 0px 0px 2px #7517EE;
 } 
-
 /*滚动轴颜色*/
 body .FigmaExApp .ExBar .action-list::-webkit-scrollbar-thumb {
     background: #5400BD;
@@ -146,7 +146,6 @@ body .FigmaExApp .ExBar .top-list {
 body .FigmaExApp .ActionItem .action-info .name {
     font-weight: 800;
 }
-
 /*===========勾选紧凑布局后大小-开始====================*/
 body .FigmaExApp.compact-ui .ExBar .ActionItem {
     padding: 2px 1px;
@@ -174,7 +173,6 @@ body .FigmaExApp .ExBar.mini:not(.expanded):not(.focus) {
     min-height: 58px;
     padding-bottom: 0;
 }
-
 /*透明-搜索默认文字*/
 body .FigmaExApp ExBar.glass .header .find-input input::placeholder {
     color: #5000B8;
@@ -189,8 +187,7 @@ body .figmaex-localfont-but {
     -webkit-mask-size: 60% 60%;
     background: #A368ED;
 	border-radius: 40%;
-	border: 6px solid #fff;
-   
+	border: 6px solid #fff;  
 }
 body .figmaex-localfont-but:hover {
 	background: #9818ed;
