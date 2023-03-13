@@ -4,8 +4,7 @@
 body .FigmaExApp .ExBar{
 	box-sizing: border-box;
 	background: rgba(255, 255, 255, 0.8);
-	box-shadow: -20px 20px 15px rgba(0, 0, 0, 0.07);
-	backdrop-filter: blur(7.5px);	
+	box-shadow: -20px 20px 15px rgba(0, 0, 0, 0.07);	
 	border-radius: 16px;
 	border: 3px solid #fff;	
 }
@@ -44,8 +43,6 @@ body .FigmaExApp .ActionItem .action-info .note-name {
 /*列表-背景色*/
 body .FigmaExApp .ActionItem {	
 	background: linear-gradient(0deg, #FFFFFF 0%, #F3F5F8 100%);
-	backdrop-filter: blur(7.5px);
-	backdrop-filter: blur(7.5px);
 	border-radius: 16px;
 	border: 3px solid #FFFFFF;
 	margin: 2px 2px;
@@ -88,8 +85,7 @@ body .FigmaExApp .ExBar .reseize-hand .dot {
 	border: 5px solid #fd7372;
 	margin: 0 auto;
 	box-sizing: border-box;
-	border-radius: 10px;
-	
+	border-radius: 10px;	
 }
 /*底部拖动小点经过颜色*/
 body .FigmaExApp .ExBar .reseize-hand:hover .dot {
@@ -128,7 +124,6 @@ body .FigmaExApp .ExBar .top-list {
 body .FigmaExApp .ActionItem .action-info .name {
     font-weight: 800;
 }
-
 /*===========勾选紧凑布局后大小-开始====================*/
 body .FigmaExApp.compact-ui .ExBar .ActionItem {
     padding: 2px 1px;
@@ -145,7 +140,6 @@ body .FigmaExApp.compact-ui .ExBar .ActionItem .main-icon {
 body .FigmaExApp.compact-ui .ExBar .header .logo-but {
     right: 3px;
 }
-
 /*==============字体选择器-开始=================*/
 body .figmaex-localfont-but {
     margin-left: auto;
@@ -155,8 +149,7 @@ body .figmaex-localfont-but {
     -webkit-mask-size: 60% 60%;
     background: #FF3232;
 	border-radius: 40%;
-	border: 6px solid #fff;
-   
+	border: 6px solid #fff;  
 }
 body .figmaex-localfont-but:hover {
 	background: #fc0029;
