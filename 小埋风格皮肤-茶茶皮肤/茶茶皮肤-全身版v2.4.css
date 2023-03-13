@@ -1,9 +1,8 @@
-/* ====皮肤：茶茶皮V2.4-支持浅色深色模式==== */
+/* ====皮肤：茶茶皮-支持浅色深色模式==== */
 /* =====整体===== */
 body .FigmaExApp .ExBar{
 	box-sizing: border-box;
 	background: #FDAD7C;
-	backdrop-filter: blur(7.5px);	
 	border-radius: 20px;
 	border: 2px solid #5D2D32;	
 	padding-bottom: 0;
@@ -120,7 +119,6 @@ body .FigmaExApp .ExBar .reseize-hand {
 }
 /* =====插件滚动条-结束===== */
 
-
 /* =====插件列表===== */
 /*列表-背景色*/
 body .FigmaExApp .ActionItem {	
@@ -188,7 +186,6 @@ body .FigmaExApp .ActionItem .info-but{
 body .FigmaExApp .ActionItem .star-but{
 	background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTkuMzg1MTcgNS4wODU4M0w5Ljk5OTY3IDUuOTY0MDNMMTAuNjE0MiA1LjA4NTgzQzExLjM5MyAzLjk3Mjc5IDEyLjY3NTkgMy4yNSAxNC4xMjQ3IDMuMjVDMTYuNDkwNCAzLjI1IDE4LjQxNjMgNS4xODEzNyAxOC40MTYzIDcuNTczODhDMTguNDE2MyA5LjgyNDUzIDE3LjA4MzEgMTIuMDY2NCAxNS4yNTE1IDEzLjkyNzlDMTMuNTIyNyAxNS42ODUgMTEuNDYyNSAxNi45ODcgOS45OTk2NyAxNy41Mzc0QzguNTM2ODIgMTYuOTg3IDYuNDc2NjQgMTUuNjg1IDQuNzQ3ODMgMTMuOTI3OUMyLjkxNjI1IDEyLjA2NjQgMS41ODMwMSA5LjgyNDUzIDEuNTgzMDEgNy41NzM4OEMxLjU4MzAxIDUuMTgxMzcgMy41MDg5NSAzLjI1IDUuODc0NjcgMy4yNUM3LjMyMzQ3IDMuMjUgOC42MDYzNSAzLjk3Mjc5IDkuMzg1MTcgNS4wODU4M1oiIGZpbGw9IiNGRkQyRTEiIHN0cm9rZT0iI0U3NUI4NyIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC40MTE3IDguMTA5MjdDMTQuODcxNiA4LjEyNzQxIDE1LjIyOTcgOC41MTQ5MSAxNS4yMTE2IDguOTc0NzlDMTUuMTYwNiAxMC4yNjgyIDE0LjA4ODcgMTMuMDk5NyAxMC4zOTExIDEzLjk1MzVDOS45NDI2MiAxNC4wNTcgOS40OTUxNSAxMy43Nzc0IDkuMzkxNjEgMTMuMzI5QzkuMjg4MDcgMTIuODgwNiA5LjU2NzY2IDEyLjQzMzEgMTAuMDE2MSAxMi4zMjk1QzEyLjg2NDggMTEuNjcxOCAxMy41MTk4IDkuNTc4MzQgMTMuNTQ2MiA4LjkwOTEyQzEzLjU2NDMgOC40NDkyNCAxMy45NTE4IDguMDkxMTQgMTQuNDExNyA4LjEwOTI3WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==");
 }
-
 /*收藏与非收藏分割线*/
 body .FigmaExApp .ExBar .top-list {
     padding-bottom: 12px;
@@ -196,7 +193,6 @@ body .FigmaExApp .ExBar .top-list {
 	border-bottom: 3px solid #C86A37;
 }
 /* =====插件列表-结束===== */
-
 
 /* =====插件内部文字===== */
 /*大标题*/
@@ -220,7 +216,6 @@ body .FigmaExApp .ExBar.glass .ActionItem:hover .action-info .note-name {
     color: #902300;   
 }
 /* =====插件内部文字-结束===== */
-
 
 /* =====底部拖动条===== */
 /*底部拖动小点*/
@@ -254,7 +249,6 @@ body .FigmaExApp.compact-ui .ExBar .reseize-hand:hover .dot {
 	background-repeat: no-repeat;
 	background-size: 38px 22px;
 	background-image: url("data:image/png;base64,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");
-
 	}
 /* 【闲时最小化】底部显示 */
 body .FigmaExApp .ExBar.mini:not(.expanded):not(.focus) .reseize-hand{
@@ -300,7 +294,6 @@ body .FigmaExApp .ExBar.mini.glass .reseize-hand .dot {
 }
 /* 【显示】【透明背景】 */
 /* =====底部拖动条-结束===== */
-
 
 /* =====字体及字体列表===== */
 /* 字体按钮 */
@@ -362,7 +355,7 @@ body .figmaex-localfont-but:hover {
 /* 字体搜索-placeholder */
 .FontPicker input::placeholder {
     outline: none;
-   color: #BD5618;
+    color: #BD5618;
 }
 /* 字体预览输入框*/
 .FontPicker input.preview-input {
@@ -400,7 +393,6 @@ body .figmaex-localfont-but:hover {
 .FontPicker .font-item .expand-but{
 		background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xLjQ2OTY3IDUuNDY5NjdDMS43NjI1NyA1LjE3Njc3IDIuMjM3NDQgNS4xNzY3OCAyLjUzMDMzIDUuNDY5NjdMOS45OTk4OSAxMi45MzkzTDE3LjQ2OTcgNS40Njk2N0MxNy43NjI2IDUuMTc2NzcgMTguMjM3NCA1LjE3Njc4IDE4LjUzMDMgNS40Njk2N0MxOC44MjMyIDUuNzYyNTcgMTguODIzMiA2LjIzNzQ0IDE4LjUzMDMgNi41MzAzM0w5Ljk5OTg4IDE1LjA2MDdMMS40Njk2NyA2LjUzMDMzQzEuMTc2NzcgNi4yMzc0MyAxLjE3Njc4IDUuNzYyNTYgMS40Njk2NyA1LjQ2OTY3WiIgZmlsbD0iI0U3NUI4NyIvPgo8L3N2Zz4K");
 }
-
 /*滚动轴颜色*/
 .vue-recycle-scroller.scroller.ready.direction-vertical::-webkit-scrollbar-thumb {
     background: #BD5618;
