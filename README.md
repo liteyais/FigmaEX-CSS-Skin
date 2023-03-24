@@ -1,9 +1,14 @@
 # FigmaEX-CSS皮肤
 # 使用方法
-在EX插件面板的设置中，粘贴css代码即可。<br />
-<img width="250px"  src="https://user-images.githubusercontent.com/16641863/224549116-8b2166f9-bbd3-4abe-a9c2-dd06505a4d33.png"/>
+在EX插件面板的设置中，粘贴css代码即可。<br /><br />
+<img width="250px"  src="https://user-images.githubusercontent.com/16641863/227446557-39033799-a05a-4777-b5c3-b82b58aa0c95.png"/>
+<br /><br />
 
 # ====皮肤列表====
+## 马里奥风格皮肤（适用于Figma浅色模式）
+**地址：**[茶茶皮肤-全身版v2.4](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%8D%A1%E9%80%9A%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4/%E9%A9%AC%E9%87%8C%E5%A5%A51.0.css) <br /><br />
+<img width="250px"  src="https://user-images.githubusercontent.com/16641863/227445821-237fc0e3-1164-41e8-b15d-f83e3a04229b.png"/>
+<img width="180px"  src="https://user-images.githubusercontent.com/16641863/227446204-690541d3-60ac-465e-840e-2ccb135ee3b3.gif"/>
 
 ## 小埋风格皮肤（适用于Figma浅色+深色模式）
 **包含内容：皮肤，字体面板，及支持深色模式**<br />
