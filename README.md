@@ -11,8 +11,11 @@
 <img width="180px"  src="https://user-images.githubusercontent.com/16641863/227446204-690541d3-60ac-465e-840e-2ccb135ee3b3.gif"/>
 
 ## 小埋风格皮肤（适用于Figma浅色+深色模式）
-**包含内容：皮肤，字体面板，及支持深色模式**<br />
-**地址：**[茶茶皮肤-全身版v2.5](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%85%A8%E8%BA%AB%E7%89%88v2.5.css) <br /><br />
+**包含内容：皮肤，字体面板，及支持深色模式**<br /><br />
+ **地址：**[茶茶皮肤-全身版v2.5](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%85%A8%E8%BA%AB%E7%89%88v2.5.css) <br /><br />
+ V2.5 <br />
+1、新增皮肤图片<br />
+2、删除透明模式<br /><br />
 <img width="400px"  src="https://user-images.githubusercontent.com/16641863/224549323-90f2fab2-4d3d-4bf6-a5a0-4e3e4b0117e8.png"/>
 <img width="180px"  src="https://user-images.githubusercontent.com/16641863/224549796-6f53663f-e8ff-4612-8a9c-226fbc8fff18.gif"/>
 
