@@ -9,7 +9,7 @@
 1、适配深色模式<br />
 2、增加字体选择图标<br />
 3、增加css主题图<br /><br />
-**地址：**[马里奥皮肤v1.1](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%8D%A1%E9%80%9A%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4/%E9%A9%AC%E9%87%8C%E5%A5%A51.0.css) <br /><br />
+**地址：**[马里奥皮肤v1.1](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%8D%A1%E9%80%9A%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4/%E9%A9%AC%E9%87%8C%E5%A5%A51.1.css) <br /><br />
 <img width="250px"  src="https://user-images.githubusercontent.com/16641863/227445821-237fc0e3-1164-41e8-b15d-f83e3a04229b.png"/>
 <img width="180px"  src="https://user-images.githubusercontent.com/16641863/227446204-690541d3-60ac-465e-840e-2ccb135ee3b3.gif"/>
 
