@@ -433,9 +433,11 @@ body .FigmaExApp.compact-ui .ExBar:hover .reseize-hand .dot {
 /* =====底部拖动条-结束===== */
 /* =====设置栏目-开始===== */
 /*隐藏透明模式*/
+/*
 .FigmaExApp .Settings .mCheckbox:nth-last-child(2) {
   display: none;
 }
+*/
 /*主题标题*/
 .FigmaExApp .Settings > .set:nth-last-child(2) .set-item:before {
   content: "";
