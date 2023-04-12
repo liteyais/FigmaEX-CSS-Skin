@@ -23,9 +23,10 @@ body .FigmaExApp .ExBar .header, body[data-preferred-theme=dark] .FigmaExApp .Ex
   height: 56px;
   background-repeat: no-repeat, repeat-x;
   background-size: 40px 40px, 50px 56px;
-  background-position: -8px 4px, 0px bottom !important;
+  background-position: -8px 4px, 0px bottom;
   background-image:
-    url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAASzSURBVHgB7Z1NbBtFGIbf3fU6iZ3UaYLTkhAcgVSUhkOkooCEhDjDhR45IJVDJU4gDlx6Rhw59NpLJS6IAxVInBAiAg78VYUDBBoqJSSEtnGdOP6Ja3t3O7tbb/5qZ3fyreVpvkcaefdNlMSPZ+bbn4kNqMlV0ZxebDoYUlgoMQkoztCJBN68MIE4qVo6vknkgv2X6qvImg1v+/pPRdE2g68pL3RQCL34bg5xkm+Y+HXxmWD/fK4f0+mqv3N5eY9QHvLEROmhs6INozeIt0segShCr4k2BaYjPOSJYaHESFX5cy9mRGWdQpzc1DL4ojIe7H+QWgi2P/7wFm4ulNGLSAl9cmLAkxon1c0MzLWhYP/c2Z3f5x57tjDSfViopBAn6+KwKSzKH4cWkil8tDyJXoHnUGJYKDEslBjl51CrUhfn1dvoJinDbvs15YWO1Cu4lPsXvYKU0NXEEK6tP4E4Wa71QUXkhBon8Pn6KJiDcFEihoUSw0KJkZpDn7K28Fr2HpiDyAltlnA+mwdzEB7yxLBQYlgoMSyUGBZKDAslhoUSw0KJUf56aK1/AN9txnsHdj8vDJXaXmRWXuj9gX5cWTuNbpLNNXZW3+1DSug/g2Ndv3V7KbcCFZAS6q6XjHtxgaooP+QzGxv45OzfiBO3A72/a8FtJ6SEjtTLeGV4C3GyXk9goareKJASesYp4uL4/4iT70XlPjZCe4nGaCb2Kl+xjNDfq7zQqq13/Ti0E1JCf+ybwFt/PgfmIHzqSQwLJYaFEsNCiWGhxLBQYlgoMSyUGBZKDAslhoUSw0KJYaHEsFBiWCgxUtdD+2vbwX+vrZc17zGVdJBOIlK2WdXQsAFTdzCc2ps1xGtd1JJQDSmhs1oh+O+1z373f8TMqI2Z03ak7KsFA5WmhqmTDuaetvZkq9oQbiTGoBo85ImR6qFbMPHzin/jam7S71mVuhY5mzllt82MqoMb8d6pjgUpoZaZwFLBnxPnJh3v8Y/bWuTs+VP+nLpUEPkdfU+2IuZVHBehpnju6aQvyO1dLaJm5br7HpHaI7OGBSWREjp4fxuvT/vPOCg2YqhGzbwCVPeL0v5sVdOVvMnNRYkYLkrEKF+UzHwxWDv625qOzW0NwwMOZsftttliXsN/RR2meA1fnrIOzRpi+vnFCLfc58hFKcgM+Sz5iCws7tLs1mri27oBw9GQFS/GdNpqm5XuGaiJLC2ex3S6eWhWjaDpyEWpxZmsLRqksvGMI5pcWe9PJ3D34Wlt2n0DsEH/1LZT5pKNkFXd3RpCof674iRMzN/y599Xn7UwJgS4Qjplc5M2pkZsb+52jyoOy/INHZ8uhvt7uMoTo/5yxsK21wtdljZ0Udz8Yd4pc698fburBx+WFe3w/U5KaLnU9N4dO07+KlloGOlg/3pp5/eVtprBtlvk3CHt4orzLhOK/U7ZUkH3Mne+DJNVNS20KSmh81/nvdZN3mmTc1EihovSY06UHvo2eof3RHvD3dhdlE4O4OGjEypLGuGyKEQROo/e4UJrY3dRiiuLAg95YpQvSmVxCHXl8jLixP1wlWJi59T4S/MufqhXvO24Dx+7xVXwB1QdD1goMQ8ArvWqg7ehFncAAAAASUVORK5CYII="), url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABwCAYAAADopdXZAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGbSURBVHgB7dYrTgRBFEDRgoxCswYMCWp2gUWyATwWxxpgD4SVkAGBQCDAIlCEYIcFTDIfMekrzrH9qUpuXlcfLN/HcpBxOEgRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQmNnP0+mgw4TECBIjSIwgMYLEHFz/3iwHGSYkRpAYQWJmi8/nQYcJiREkRpAYQWIEiZmNHf3df29139HV8dinqfexr/VNSIwgMYLErJwhm76Nr3eLsY2zMV97fdO3dep9TLW+CYnZ+S/r9vxkq/sexn5NvY99rW9CYlYmZP7ytfaBy4vthurjcf173sb6M2TqfUy1vgmJESRGkJh/BB07k3FlnvUAAAAASUVORK5CYII=");
+    url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAASzSURBVHgB7Z1NbBtFGIbf3fU6iZ3UaYLTkhAcgVSUhkOkooCEhDjDhR45IJVDJU4gDlx6Rhw59NpLJS6IAxVInBAiAg78VYUDBBoqJSSEtnGdOP6Ja3t3O7tbb/5qZ3fyreVpvkcaefdNlMSPZ+bbn4kNqMlV0ZxebDoYUlgoMQkoztCJBN68MIE4qVo6vknkgv2X6qvImg1v+/pPRdE2g68pL3RQCL34bg5xkm+Y+HXxmWD/fK4f0+mqv3N5eY9QHvLEROmhs6INozeIt0segShCr4k2BaYjPOSJYaHESFX5cy9mRGWdQpzc1DL4ojIe7H+QWgi2P/7wFm4ulNGLSAl9cmLAkxon1c0MzLWhYP/c2Z3f5x57tjDSfViopBAn6+KwKSzKH4cWkil8tDyJXoHnUGJYKDEslBjl51CrUhfn1dvoJinDbvs15YWO1Cu4lPsXvYKU0NXEEK6tP4E4Wa71QUXkhBon8Pn6KJiDcFEihoUSw0KJkZpDn7K28Fr2HpiDyAltlnA+mwdzEB7yxLBQYlgoMSyUGBZKDAslhoUSw0KJUf56aK1/AN9txnsHdj8vDJXaXmRWXuj9gX5cWTuNbpLNNXZW3+1DSug/g2Ndv3V7KbcCFZAS6q6XjHtxgaooP+QzGxv45OzfiBO3A72/a8FtJ6SEjtTLeGV4C3GyXk9goareKJASesYp4uL4/4iT70XlPjZCe4nGaCb2Kl+xjNDfq7zQqq13/Ti0E1JCf+ybwFt/PgfmIHzqSQwLJYaFEsNCiWGhxLBQYlgoMSyUGBZKDAslhoUSw0KJYaHEsFBiWCgxUtdD+2vbwX+vrZc17zGVdJBOIlK2WdXQsAFTdzCc2ps1xGtd1JJQDSmhs1oh+O+1z373f8TMqI2Z03ak7KsFA5WmhqmTDuaetvZkq9oQbiTGoBo85ImR6qFbMPHzin/jam7S71mVuhY5mzllt82MqoMb8d6pjgUpoZaZwFLBnxPnJh3v8Y/bWuTs+VP+nLpUEPkdfU+2IuZVHBehpnju6aQvyO1dLaJm5br7HpHaI7OGBSWREjp4fxuvT/vPOCg2YqhGzbwCVPeL0v5sVdOVvMnNRYkYLkrEKF+UzHwxWDv625qOzW0NwwMOZsftttliXsN/RR2meA1fnrIOzRpi+vnFCLfc58hFKcgM+Sz5iCws7tLs1mri27oBw9GQFS/GdNpqm5XuGaiJLC2ex3S6eWhWjaDpyEWpxZmsLRqksvGMI5pcWe9PJ3D34Wlt2n0DsEH/1LZT5pKNkFXd3RpCof674iRMzN/y599Xn7UwJgS4Qjplc5M2pkZsb+52jyoOy/INHZ8uhvt7uMoTo/5yxsK21wtdljZ0Udz8Yd4pc698fburBx+WFe3w/U5KaLnU9N4dO07+KlloGOlg/3pp5/eVtprBtlvk3CHt4orzLhOK/U7ZUkH3Mne+DJNVNS20KSmh81/nvdZN3mmTc1EihovSY06UHvo2eof3RHvD3dhdlE4O4OGjEypLGuGyKEQROo/e4UJrY3dRiiuLAg95YpQvSmVxCHXl8jLixP1wlWJi59T4S/MufqhXvO24Dx+7xVXwB1QdD1goMQ8ArvWqg7ehFncAAAAASUVORK5CYII="), 
+	url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABwCAYAAADopdXZAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGbSURBVHgB7dYrTgRBFEDRgoxCswYMCWp2gUWyATwWxxpgD4SVkAGBQCDAIlCEYIcFTDIfMekrzrH9qUpuXlcfLN/HcpBxOEgRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQGEFiBIkRJEaQmNnP0+mgw4TECBIjSIwgMYLEHFz/3iwHGSYkRpAYQWJmi8/nQYcJiREkRpAYQWIEiZmNHf3df29139HV8dinqfexr/VNSIwgMYLErJwhm76Nr3eLsY2zMV97fdO3dep9TLW+CYnZ+S/r9vxkq/sexn5NvY99rW9CYlYmZP7ytfaBy4vthurjcf173sb6M2TqfUy1vgmJESRGkJh/BB07k3FlnvUAAAAASUVORK5CYII=");
 }
 /*经过插件框人物、地面动画*/
 body .FigmaExApp .ExBar:hover .header {
@@ -43,7 +44,7 @@ body .FigmaExApp .ExBar:hover .header {
 body .FigmaExApp.compact-ui .ExBar .header {
   background-size: 28px 28px, 40px 44px;
   height: 43px;
-  background-position: -4px 4px, 0px bottom !important;
+  background-position: -4px 4px, 0px bottom ;
 }
 /*hover-exbar紧凑header*/
 body .FigmaExApp .ExBar:hover .header {
@@ -430,6 +431,7 @@ body .FigmaExApp.compact-ui .ExBar .reseize-hand .dot {
 body .FigmaExApp.compact-ui .ExBar:hover .reseize-hand .dot {
   background-size: 30px 31px;
 }
+
 /* =====底部拖动条-结束===== */
 /* =====设置栏目-开始===== */
 /*隐藏透明模式*/
@@ -438,6 +440,14 @@ body .FigmaExApp.compact-ui .ExBar:hover .reseize-hand .dot {
   display: none;
 }
 */
+/*最小化*/
+body .FigmaExApp .ExBar.mini:not(.expanded):not(.focus),body[data-preferred-theme=dark]  .FigmaExApp .ExBar.mini:not(.expanded):not(.focus){
+    height: 60px;
+}
+/*最小化-紧凑*/
+body .FigmaExApp.compact-ui .ExBar.mini:not(:hover),body[data-preferred-theme=dark]  .FigmaExApp.compact-ui .ExBar.mini:not(:hover) {
+    height: 47px;
+}
 /*主题标题*/
 .FigmaExApp .Settings > .set:nth-last-child(2) .set-item:before {
   content: "";
