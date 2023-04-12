@@ -1,7 +1,7 @@
 # FigmaEX-CSS皮肤
 # 使用方法
 在EX插件面板的设置中，粘贴css代码即可。<br /><br />
-<img width="250px"  src="https://user-images.githubusercontent.com/16641863/227446557-39033799-a05a-4777-b5c3-b82b58aa0c95.png"/>
+<img width="800px"  src="https://user-images.githubusercontent.com/16641863/231320103-8e156817-5d6f-4b81-b223-6e029baf7b8c.png"/>
 <br /><br />
 
 # ====皮肤列表====
