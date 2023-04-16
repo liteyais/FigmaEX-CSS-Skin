@@ -8,9 +8,10 @@
 ## 马里奥风格皮肤（适用于Figma浅色+深色模式）
 1、适配深色模式<br />
 2、增加字体选择图标<br />
-3、增加css主题图<br /><br />
+3、增加css主题图<br />
+4、优化动态效果<br /><br />
 **地址：**[马里奥皮肤v1.1](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%8D%A1%E9%80%9A%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4/%E9%A9%AC%E9%87%8C%E5%A5%A51.1.css) <br /><br />
-<img width="250px"  src="https://user-images.githubusercontent.com/16641863/232319086-42109834-36a5-4579-a9ba-c27c01239d0e.png"/>
+<img width="250px"  src="https://user-images.githubusercontent.com/16641863/232319273-08ff3369-c7f9-4f01-96de-aaf09cf98f80.png"/>
 
 ## 小埋风格皮肤（适用于Figma浅色+深色模式）<br />
 **一、皮肤名称：【茶茶皮肤-必胜版】**<br />
@@ -25,15 +26,19 @@
 |4   |优化暗黑模式  |
 |5   |优化代码  |
 <br />
+<img width="400px"  src="https://user-images.githubusercontent.com/16641863/232319086-42109834-36a5-4579-a9ba-c27c01239d0e.png"/><br />
 
-
-<img width="400px"  src="https://user-images.githubusercontent.com/16641863/224549323-90f2fab2-4d3d-4bf6-a5a0-4e3e4b0117e8.png"/>
-<img width="180px"  src="https://user-images.githubusercontent.com/16641863/224549796-6f53663f-e8ff-4612-8a9c-226fbc8fff18.gif"/>
-<br /><br />
-
-**二、、茶茶皮肤-【全身版】：包含内容：皮肤，字体面板，及支持深色模式**<br /><br />
- **地址：**[茶茶皮肤-全身版v2.5](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%85%A8%E8%BA%AB%E7%89%88v2.5.css) <br /><br />
- V2.5 <br />
+**二、皮肤名称：【茶茶皮肤-全身版】**<br />
+**1、介绍：** 包含内容：EX皮肤，字体面板，及支持深色模式<br />
+**2、地址：**[茶茶皮肤-全身版v2.5](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%85%A8%E8%BA%AB%E7%89%88v2.5.css) <br />
+**3、更新：** <br />
+|序号|更新内容|
+|:---:|:--|
+|1   |新增皮肤图片|
+|2   |新增搜索为空时图片 |
+|3   |优化暗黑模式|
+|4   |优化代码  |
+<br />
 1、新增皮肤图片<br />
 2、删除透明模式<br /><br />
 <img width="400px"  src="https://user-images.githubusercontent.com/16641863/224549323-90f2fab2-4d3d-4bf6-a5a0-4e3e4b0117e8.png"/>
