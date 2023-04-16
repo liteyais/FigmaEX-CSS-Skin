@@ -39,8 +39,6 @@
 |3   |优化暗黑模式|
 |4   |优化代码  |
 <br />
-1、新增皮肤图片<br />
-2、删除透明模式<br /><br />
 <img width="400px"  src="https://user-images.githubusercontent.com/16641863/224549323-90f2fab2-4d3d-4bf6-a5a0-4e3e4b0117e8.png"/>
 <img width="180px"  src="https://user-images.githubusercontent.com/16641863/224549796-6f53663f-e8ff-4612-8a9c-226fbc8fff18.gif"/>
 
