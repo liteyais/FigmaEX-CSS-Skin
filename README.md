@@ -15,8 +15,8 @@
 
 ## 小埋风格皮肤（适用于Figma浅色+深色模式）<br />
 **一、皮肤名称：【茶茶皮肤-必胜版】**<br />
-**1、介绍：** 包含内容：皮肤，字体面板，及支持深色模式<br />
-**2、地址：**[茶茶皮肤-必胜版0.1](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%85%A8%E8%BA%AB%E7%89%88v2.5.css) <br />
+**1、介绍：** 包含内容：EX皮肤，字体面板，及支持深色模式<br />
+**2、地址：**[茶茶皮肤-必胜版0.1](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%BF%85%E8%83%9C%E7%89%88v1.0.css) <br />
 **3、更新：** <br />
 |序号|更新内容|
 |:---: |:--|
