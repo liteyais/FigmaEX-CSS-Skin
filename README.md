@@ -14,7 +14,7 @@
 <img width="250px"  src="https://user-images.githubusercontent.com/16641863/232319273-08ff3369-c7f9-4f01-96de-aaf09cf98f80.png"/>
 
 ## 小埋风格皮肤（适用于Figma浅色+深色模式）<br />
-**一、皮肤名称：【茶茶皮肤-必胜版】**<br />
+**板式一、皮肤名称：【茶茶皮肤-必胜版】**<br />
 **1、介绍：** 包含内容：EX皮肤，字体面板，及支持深色模式<br />
 **2、地址：**[茶茶皮肤-必胜版0.1](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%BF%85%E8%83%9C%E7%89%88v1.0.css) <br />
 **3、更新：** <br />
@@ -26,9 +26,11 @@
 |4   |优化暗黑模式  |
 |5   |优化代码  |
 <br />
-<img width="400px"  src="https://user-images.githubusercontent.com/16641863/232319086-42109834-36a5-4579-a9ba-c27c01239d0e.png"/><br />
+<img width="340px"   src="https://user-images.githubusercontent.com/16641863/232319086-42109834-36a5-4579-a9ba-c27c01239d0e.png"/>
+<img width="200px"  src="https://user-images.githubusercontent.com/16641863/232411652-eb71c194-89d2-4077-bd68-0cee07093cf3.gif"/><br />
 
-**二、皮肤名称：【茶茶皮肤-全身版】**<br />
+
+**板式二、皮肤名称：【茶茶皮肤-全身版】**<br />
 **1、介绍：** 包含内容：EX皮肤，字体面板，及支持深色模式<br />
 **2、地址：**[茶茶皮肤-全身版v2.5](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%85%A8%E8%BA%AB%E7%89%88v2.5.css) <br />
 **3、更新：** <br />
