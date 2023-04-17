@@ -19,7 +19,7 @@
 **1、介绍：** 包含内容：EX皮肤，字体面板，及支持深色模式<br />
 **2、地址：**[茶茶皮肤-必胜版V0.1](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%BF%85%E8%83%9C%E7%89%88v1.0.css) 
 <div align="left">
-<img width="350px"   src="https://user-images.githubusercontent.com/16641863/232319086-42109834-36a5-4579-a9ba-c27c01239d0e.png"/>
+<img width="350px"   src="https://user-images.githubusercontent.com/16641863/232426621-cee1de16-d4ae-4250-a87b-db4117ae2a48.png"/>
 <img width="200px"  src="https://user-images.githubusercontent.com/16641863/232411652-eb71c194-89d2-4077-bd68-0cee07093cf3.gif"/><br />
 </div><br /><br />
 
