@@ -1,49 +1,37 @@
-# FigmaEX-CSS皮肤
-# 使用方法
-在EX插件面板的设置中，粘贴css代码即可。<br /><br />
+<h1 align="left">FigmaEX-CSS皮肤</h1>
+使用方法：在EX插件面板的设置中，粘贴css代码即可。
+<br /><br />
 <img width="800px"  src="https://user-images.githubusercontent.com/16641863/231320103-8e156817-5d6f-4b81-b223-6e029baf7b8c.png"/>
 <br /><br />
 
-# ====皮肤列表====
+
+# 肤列表
 ## 马里奥风格皮肤（适用于Figma浅色+深色模式）
-1、适配深色模式<br />
-2、增加字体选择图标<br />
-3、增加css主题图<br />
-4、优化动态效果<br /><br />
-**地址：**[马里奥皮肤v1.1](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%8D%A1%E9%80%9A%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4/%E9%A9%AC%E9%87%8C%E5%A5%A51.1.css) <br /><br />
-<img width="250px"  src="https://user-images.githubusercontent.com/16641863/232319273-08ff3369-c7f9-4f01-96de-aaf09cf98f80.png"/>
+**1、介绍：** 包含内容：EX皮肤,及支持深色模式<br />
+**2、地址：**[马里奥皮肤v1.1](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%8D%A1%E9%80%9A%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4/%E9%A9%AC%E9%87%8C%E5%A5%A51.1.css) <br /><br />
+<div align="left">
+<img width="250px"  src="https://user-images.githubusercontent.com/16641863/232421823-112ed0d7-f3ce-4d7f-9775-c9cc01b959da.png"/>
+<img width="150px"  src="https://user-images.githubusercontent.com/16641863/232418750-2664da16-6139-49cb-aaa8-ab2a54dcae18.gif"/>
+</div><br /><br />
+
 
 ## 小埋风格皮肤（适用于Figma浅色+深色模式）<br />
 **板式一、皮肤名称：【茶茶皮肤-必胜版】**<br />
 **1、介绍：** 包含内容：EX皮肤，字体面板，及支持深色模式<br />
-**2、地址：**[茶茶皮肤-必胜版0.1](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%BF%85%E8%83%9C%E7%89%88v1.0.css) <br />
-**3、更新：** <br />
-|序号|更新内容|
-|:---: |:--|
-|1   |新增皮肤图片|
-|2   |新增设置按钮图 |
-|3   |新增搜索为空时图片|
-|4   |优化暗黑模式  |
-|5   |优化代码  |
+**2、地址：**[茶茶皮肤-必胜版V0.1](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%BF%85%E8%83%9C%E7%89%88v1.0.css) <br />
 <br />
-<img width="340px"   src="https://user-images.githubusercontent.com/16641863/232319086-42109834-36a5-4579-a9ba-c27c01239d0e.png"/>
+<div align="left">
+<img width="350px"   src="https://user-images.githubusercontent.com/16641863/232319086-42109834-36a5-4579-a9ba-c27c01239d0e.png"/>
 <img width="200px"  src="https://user-images.githubusercontent.com/16641863/232411652-eb71c194-89d2-4077-bd68-0cee07093cf3.gif"/><br />
-
+</div><br /><br />
 
 **板式二、皮肤名称：【茶茶皮肤-全身版】**<br />
 **1、介绍：** 包含内容：EX皮肤，字体面板，及支持深色模式<br />
 **2、地址：**[茶茶皮肤-全身版v2.5](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%85%A8%E8%BA%AB%E7%89%88v2.5.css) <br />
-**3、更新：** <br />
-|序号|更新内容|
-|:---:|:--|
-|1   |新增皮肤图片|
-|2   |新增搜索为空时图片 |
-|3   |优化暗黑模式|
-|4   |优化代码  |
-<br />
+<div align="left">
 <img width="400px"  src="https://user-images.githubusercontent.com/16641863/224549323-90f2fab2-4d3d-4bf6-a5a0-4e3e4b0117e8.png"/>
 <img width="180px"  src="https://user-images.githubusercontent.com/16641863/224549796-6f53663f-e8ff-4612-8a9c-226fbc8fff18.gif"/>
-
+</div><br /><br />
 
 ## 紫色风格皮肤-大紫薯（适用于Figma浅色风格）
 地址：[大紫薯1.1](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E7%B4%AB%E8%89%B2%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E5%A4%A7%E7%B4%AB%E8%96%AF/%E5%A4%A7%E7%B4%AB%E8%96%AFv1.1.css)
