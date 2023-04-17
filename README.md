@@ -1,9 +1,8 @@
 <h1 align="left">FigmaEX-CSS皮肤</h1>
 使用方法：在EX插件面板的设置中，粘贴css代码即可。
 <br /><br />
-<img width="800px"  src="https://user-images.githubusercontent.com/16641863/231320103-8e156817-5d6f-4b81-b223-6e029baf7b8c.png"/>
+<img width="100%" alt="图片介绍" src="https://user-images.githubusercontent.com/16641863/232425510-4b39f9d4-32b7-4780-bec2-e6d2c02d2de2.png"/>
 <br /><br />
-
 
 # 肤列表
 ## 马里奥风格皮肤（适用于Figma浅色+深色模式）
@@ -16,18 +15,17 @@
 
 
 ## 小埋风格皮肤（适用于Figma浅色+深色模式）<br />
-**板式一、皮肤名称：【茶茶皮肤-必胜版】**<br />
+**板式一、皮肤名称：【茶茶皮肤-必胜版】**<br /><br />
 **1、介绍：** 包含内容：EX皮肤，字体面板，及支持深色模式<br />
-**2、地址：**[茶茶皮肤-必胜版V0.1](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%BF%85%E8%83%9C%E7%89%88v1.0.css) <br />
-<br />
+**2、地址：**[茶茶皮肤-必胜版V0.1](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%BF%85%E8%83%9C%E7%89%88v1.0.css) 
 <div align="left">
 <img width="350px"   src="https://user-images.githubusercontent.com/16641863/232319086-42109834-36a5-4579-a9ba-c27c01239d0e.png"/>
 <img width="200px"  src="https://user-images.githubusercontent.com/16641863/232411652-eb71c194-89d2-4077-bd68-0cee07093cf3.gif"/><br />
 </div><br /><br />
 
-**板式二、皮肤名称：【茶茶皮肤-全身版】**<br />
+**板式二、皮肤名称：【茶茶皮肤-全身版】**<br /><br />
 **1、介绍：** 包含内容：EX皮肤，字体面板，及支持深色模式<br />
-**2、地址：**[茶茶皮肤-全身版v2.5](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%85%A8%E8%BA%AB%E7%89%88v2.5.css) <br />
+**2、地址：**[茶茶皮肤-全身版v2.5](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%85%A8%E8%BA%AB%E7%89%88v2.5.css) 
 <div align="left">
 <img width="400px"  src="https://user-images.githubusercontent.com/16641863/224549323-90f2fab2-4d3d-4bf6-a5a0-4e3e4b0117e8.png"/>
 <img width="180px"  src="https://user-images.githubusercontent.com/16641863/224549796-6f53663f-e8ff-4612-8a9c-226fbc8fff18.gif"/>
