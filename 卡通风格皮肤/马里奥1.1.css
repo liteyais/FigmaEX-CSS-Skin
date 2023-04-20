@@ -1,4 +1,5 @@
 /* ====皮肤：马里奥==== */
+/* ====Github地址：https://github.com/liteyais/FigmaEX-CSS-Skin==== */
 /* =====整体===== */
 body .FigmaExApp .ExBar, body[data-preferred-theme=dark] .FigmaExApp .ExBar {
   box-sizing: border-box;
@@ -465,3 +466,4 @@ body .FigmaExApp.compact-ui .ExBar.mini:not(:hover),body[data-preferred-theme=da
 .FigmaExApp .Settings > .set:nth-last-child(2) .set-item textarea {
   border: 2px solid #FF140A;
 }
+/* ====Github地址：https://github.com/liteyais/FigmaEX-CSS-Skin==== */
