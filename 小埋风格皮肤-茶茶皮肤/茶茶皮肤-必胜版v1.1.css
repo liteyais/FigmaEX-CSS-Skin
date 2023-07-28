@@ -250,7 +250,7 @@ body .FigmaExApp .ActionItem .star-but {
 body .FigmaExApp .ExBar .top-list, body[data-preferred-theme=dark] .FigmaExApp .ExBar .top-list{
   padding-bottom: 7px;
   margin-bottom: 7px;
-  border-bottom: 3px dashed #C86A37 !important;
+  border-bottom: 2px dashed #C86A37 !important;
 }
 
 /* =====插件列表-结束===== */
