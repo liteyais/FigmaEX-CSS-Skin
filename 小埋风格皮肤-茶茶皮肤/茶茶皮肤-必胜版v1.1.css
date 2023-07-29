@@ -142,6 +142,7 @@ body .FigmaExApp .ExBar .header .find-input input::placeholder {
 body .FigmaExApp .ExBar .markt-result, body[data-preferred-theme=dark] .FigmaExApp .ExBar .markt-result {
   color: #BD5618;
   padding-bottom: 24px;
+  border: none;
 }
 /*搜索结果，漏出提示文字*/
 body .FigmaExApp .ExBar .markt-result .goto-markt {
