@@ -145,7 +145,23 @@ body .FigmaExApp .ExBar .markt-result, body[data-preferred-theme=dark] .FigmaExA
 }
 /*搜索结果，漏出提示文字*/
 body .FigmaExApp .ExBar .markt-result .goto-markt {
-  padding-bottom: 24px;
+  padding: 8px 6px;
+    border-radius: 9px;
+    margin: 2px 8px;
+	background-repeat: no-repeat;
+	background-position: center right 16px;
+	background-size: 18px 18px;
+	transition: all .3s ease;
+	background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHZpZXdCb3g9IjAgMCAxOCAxOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzEwMzhfMjIwMikiPgo8cGF0aCBkPSJNOSAxNi41QzEzLjE0MjEgMTYuNSAxNi41IDEzLjE0MjEgMTYuNSA5QzE2LjUgNC44NTc4NiAxMy4xNDIxIDEuNSA5IDEuNUM0Ljg1Nzg2IDEuNSAxLjUgNC44NTc4NiAxLjUgOUMxLjUgMTMuMTQyMSA0Ljg1Nzg2IDE2LjUgOSAxNi41WiIgZmlsbD0iI0ZGREZDNyIgc3Ryb2tlPSIjQkQ1NjE4IiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNOC45MTI5MSA1LjI1TDEyIDlNMTIgOUw4LjkxMjkxIDEyLjc1TTEyIDlINiIgc3Ryb2tlPSIjQkQ1NjE4IiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjwvZz4KPGRlZnM+CjxjbGlwUGF0aCBpZD0iY2xpcDBfMTAzOF8yMjAyIj4KPHJlY3Qgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiBmaWxsPSJ3aGl0ZSIvPgo8L2NsaXBQYXRoPgo8L2RlZnM+Cjwvc3ZnPgo=");
+
+}
+body .FigmaExApp .ExBar .markt-result .goto-markt:hover {
+	background-position: center right 8px;
+	transition: all .3s ease;
+}
+/*智能搜索文字*/
+.FigmaExApp .ExBar .markt-result .goto-markt .sub-name,body[data-preferred-theme=dark] .FigmaExApp .ExBar .markt-result .goto-markt .sub-name{
+	font-size: 12px;
 }
 /* =====搜索-结束===== */
 /* =====插件滚动条===== */
