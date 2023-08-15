@@ -8,10 +8,9 @@
 
 ## 六、jojo风格皮肤（适用于Figma浅色+深色模式）
 **1、介绍：** 包含内容：支持深色模式<br />
-**2、地址：**[jojo皮肤v0.2](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%8D%A1%E9%80%9A%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4/jojo%E7%9A%AE%E8%82%A4V0.2.css) <br /><br />
+**2、地址：**[JOJO皮肤v0.2](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%8D%A1%E9%80%9A%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4/jojo%E7%9A%AE%E8%82%A4V0.2.css) <br /><br />
 <div align="left">
-<img width="250px"  src="https://user-images.githubusercontent.com/16641863/232421823-112ed0d7-f3ce-4d7f-9775-c9cc01b959da.png"/>
-<img width="160px"  src="https://user-images.githubusercontent.com/16641863/232418750-2664da16-6139-49cb-aaa8-ab2a54dcae18.gif"/>
+
 </div><br /><br />
 
 ## 五、马里奥风格皮肤（适用于Figma浅色+深色模式）
