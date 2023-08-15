@@ -310,14 +310,13 @@ body .FigmaExApp .ExBar .reseize-hand, body[data-preferred-theme=dark] .FigmaExA
 }
 /*版本*/
 .FigmaExApp .Settings > .set:nth-last-child(2) .set-item:after {
-  padding: 4px 8px;
   content: "JOJO皮肤_V0.2";
   position: absolute;
   width: auto;
   color: #E30055;
   font-size: 12px;
   right: 0;
-  top: 34px;
+  top: 36px;
   box-sizing: border-box;
 }
 /*css框颜色*/
