@@ -8,7 +8,7 @@
 
 ## 六、jojo风格皮肤（适用于Figma浅色+深色模式）
 **1、介绍：** 包含内容：替身欧拉，支持深色模式<br />
-**2、地址：**[JOJO皮肤v0.2](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%8D%A1%E9%80%9A%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4/jojo%E7%9A%AE%E8%82%A4V0.2.css) <br />
+**2、地址：**[JOJO皮肤v0.3](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/jojo%E7%9A%AE%E8%82%A4/jojo%E7%9A%AE%E8%82%A4V0.3.css) <br />
 **3、更新：**[更新记录](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/jojo%E7%9A%AE%E8%82%A4/CHANGELOG.md) <br /><br />
 <div align="left">
 <img width="450px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/2f4173eb-d5bf-4f92-897c-092091a2f29b.png"/>
