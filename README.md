@@ -31,6 +31,8 @@
 <div align="left">
 <img width="350px"   src="https://user-images.githubusercontent.com/16641863/232426621-cee1de16-d4ae-4250-a87b-db4117ae2a48.png"/>
 <img width="200px"  src="https://user-images.githubusercontent.com/16641863/232411652-eb71c194-89d2-4077-bd68-0cee07093cf3.gif"/><br />
+<img width="300px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/fabad431-034d-4de9-9223-ba1c07a4af4a.png"/><br />
+
 </div><br /><br />
 
 **板式二、皮肤名称：【茶茶皮肤-全身版-不再更新】**<br /><br />
