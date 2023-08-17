@@ -485,7 +485,7 @@ body .FigmaExApp .ExBar.glass .reseize-hand:hover .dot, .body[data-preferred-the
 }
 /*隐藏透明模式选项*/
 .FigmaExApp .Settings .mCheckbox:nth-last-child(2) {
-  /*  display: none;*/
+    display: none;
 }
 /* =====清除透明模式按钮-开始===== */
 .FigmaExApp .ExBar.glass::before {
