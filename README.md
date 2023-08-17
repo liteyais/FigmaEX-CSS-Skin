@@ -35,7 +35,8 @@
 
 **板式二、皮肤名称：【茶茶皮肤-全身版】**<br /><br />
 **1、介绍：** 包含内容：EX皮肤，字体面板，及支持深色模式<br />
-**2、地址：**[茶茶皮肤-全身版v2.5](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%85%A8%E8%BA%AB%E7%89%88v2.5.css) 
+**2、地址：**[茶茶皮肤-全身版v2.5](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%85%A8%E8%BA%AB%E7%89%88v2.5.css) <br />
+**3、更新：**[不再更新，请使用【茶茶皮肤-必胜版，点击跳转】]() <br /><br />
 <div align="left">
 <img width="400px"  src="https://user-images.githubusercontent.com/16641863/224549323-90f2fab2-4d3d-4bf6-a5a0-4e3e4b0117e8.png"/>
 <img width="180px"  src="https://user-images.githubusercontent.com/16641863/224549796-6f53663f-e8ff-4612-8a9c-226fbc8fff18.gif"/>
