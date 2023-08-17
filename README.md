@@ -17,7 +17,7 @@
 
 ## 三、马里奥风格皮肤（适用于Figma浅色+深色模式）
 **1、介绍：** 包含内容：EX皮肤,及支持深色模式<br />
-**2、地址：**[马里奥皮肤v1.1](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%8D%A1%E9%80%9A%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4/%E9%A9%AC%E9%87%8C%E5%A5%A51.1.css) <br />
+**2、地址：**[马里奥皮肤v1.2](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E9%A9%AC%E9%87%8C%E5%A5%A5%E7%9A%AE%E8%82%A4/%E9%A9%AC%E9%87%8C%E5%A5%A51.2.css) <br />
 <div align="left">
 <img width="250px"  src="https://user-images.githubusercontent.com/16641863/232421823-112ed0d7-f3ce-4d7f-9775-c9cc01b959da.png"/>
 <img width="160px"  src="https://user-images.githubusercontent.com/16641863/232418750-2664da16-6139-49cb-aaa8-ab2a54dcae18.gif"/>
