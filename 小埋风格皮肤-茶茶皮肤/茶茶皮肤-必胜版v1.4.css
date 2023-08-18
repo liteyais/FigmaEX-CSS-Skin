@@ -525,7 +525,7 @@ body .FigmaExApp .ExBar.glass .reseize-hand:hover .dot, .body[data-preferred-the
   position: relative
 }
 .FigmaExApp .Settings > .set:nth-last-child(2) .set-item:after {
-  content: "茶茶必胜版_V1.3";
+  content: "茶茶必胜版_V1.4";
   position: absolute;
   width: auto;
   color: #da6141;
