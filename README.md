@@ -33,7 +33,7 @@
 **3、更新：**[更新记录](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/CHANGELOG.md) <br /><br />
 <div align="left">
 <img width="350px"   src="https://user-images.githubusercontent.com/16641863/232426621-cee1de16-d4ae-4250-a87b-db4117ae2a48.png"/>
-<img width="200px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/8181fce4-ba0c-4951-9ecc-600a0492f4fb"/><br />
+<img width="210px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/8181fce4-ba0c-4951-9ecc-600a0492f4fb"/><br />
 <img width="300px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/fabad431-034d-4de9-9223-ba1c07a4af4a.png"/><br />
 
 
