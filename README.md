@@ -2,8 +2,14 @@
 使用方法：在EX插件面板的设置中，找到皮肤代码，粘贴代码即可。<br />
 
 ### 图片介绍：
-<img width="100%" alt="图片介绍" src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/4179c82d-1b1e-4334-ac4a-201b4870afeb"/>
+<img width="100%" alt="图片介绍" src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/f7da2d81-2571-4a45-abc4-0fec9979f2ea"/>
+<img width="100%" alt="图片介绍" src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/f2f0fbbf-6b21-486a-9cf3-b1bcdb580404"/>
 <br /><br />
+
+
+
+
+
 
 # 皮肤列表
 
