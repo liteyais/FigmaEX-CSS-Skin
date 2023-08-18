@@ -1,4 +1,4 @@
-<h1 align="left">FigmaEX-CSS皮肤</h1>
+![c1](https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/412acf6e-b881-4856-90ba-125c7915b977)<h1 align="left">FigmaEX-CSS皮肤</h1>
 使用方法：在EX插件面板的设置中，找到皮肤代码，粘贴代码即可。<br />
 
 ### 图片介绍：
@@ -36,10 +36,8 @@
 **2、地址：**[茶茶皮肤-必胜版V1.4](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%BF%85%E8%83%9C%E7%89%88v1.4.css) <br />
 **3、更新：**[更新记录](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/CHANGELOG.md) <br /><br />
 <div align="left">
-<img width="350px"   src="https://user-images.githubusercontent.com/16641863/232426621-cee1de16-d4ae-4250-a87b-db4117ae2a48.png"/>
+<img width="540px"   src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/73b47cd2-6c53-420c-ae29-275135dbfe22"/>
 <img width="210px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/8181fce4-ba0c-4951-9ecc-600a0492f4fb"/><br />
-<img width="300px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/fabad431-034d-4de9-9223-ba1c07a4af4a.png"/><br />
-
 
 
 </div><br /><br />
