@@ -18,8 +18,8 @@
 **2、地址：**[JOJO皮肤v0.3](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/jojo%E7%9A%AE%E8%82%A4/jojo%E7%9A%AE%E8%82%A4V0.3.css) <br />
 **3、更新：**[更新记录](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/jojo%E7%9A%AE%E8%82%A4/CHANGELOG.md) <br /><br />
 <div align="left">
-<img width="640px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/0b551f88-5771-4d81-ad66-01f37b491fc5"/>
-<img width="190px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/815cb9ff-3ac7-4136-886d-b3a43d8d203d"/>
+<img width="540px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/0b551f88-5771-4d81-ad66-01f37b491fc5"/>
+<img width="160px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/815cb9ff-3ac7-4136-886d-b3a43d8d203d"/>
 </div><br /><br />
 
 
