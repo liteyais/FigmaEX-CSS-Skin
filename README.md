@@ -41,8 +41,8 @@
 **2、地址：**[茶茶皮肤-必胜版V1.4](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%BF%85%E8%83%9C%E7%89%88v1.4.css) <br />
 **3、更新：**[更新记录](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/CHANGELOG.md) <br /><br />
 <div align="left">
-<img width="710px"   src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/8a76723b-1cab-4049-8e61-d909cf793696"/>
-<img width="210px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/8181fce4-ba0c-4951-9ecc-600a0492f4fb"/><br />
+<img width="610px"   src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/8a76723b-1cab-4049-8e61-d909cf793696"/>
+<img width="180px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/8181fce4-ba0c-4951-9ecc-600a0492f4fb"/><br />
 
 </div><br /><br />
 
