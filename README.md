@@ -1,4 +1,4 @@
-<h1 align="left">FigmaEX-CSS皮肤</h1>
+![jo](https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/83f4770e-0137-4720-8ec7-3463e48d88ac)<h1 align="left">FigmaEX-CSS皮肤</h1>
 使用方法：在EX插件面板的设置中，找到皮肤代码，粘贴代码即可。<br />
 
 ### 图片介绍：
@@ -13,7 +13,9 @@
 **3、更新：**[更新记录](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/jojo%E7%9A%AE%E8%82%A4/CHANGELOG.md) <br /><br />
 <div align="left">
 <img width="450px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/2f4173eb-d5bf-4f92-897c-092091a2f29b.png"/>
+<img width="250px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/815cb9ff-3ac7-4136-886d-b3a43d8d203d"/>
 </div><br /><br />
+
 
 
 ## 三、马里奥风格皮肤（适用于Figma浅色+深色模式）
