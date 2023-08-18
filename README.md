@@ -12,10 +12,9 @@
 **2、地址：**[JOJO皮肤v0.3](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/jojo%E7%9A%AE%E8%82%A4/jojo%E7%9A%AE%E8%82%A4V0.3.css) <br />
 **3、更新：**[更新记录](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/jojo%E7%9A%AE%E8%82%A4/CHANGELOG.md) <br /><br />
 <div align="left">
-<img width="450px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/2f4173eb-d5bf-4f92-897c-092091a2f29b.png"/>
+<img width="640px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/0b551f88-5771-4d81-ad66-01f37b491fc5"/>
 <img width="190px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/815cb9ff-3ac7-4136-886d-b3a43d8d203d"/>
 </div><br /><br />
-
 
 
 ## 三、马里奥风格皮肤（适用于Figma浅色+深色模式）
