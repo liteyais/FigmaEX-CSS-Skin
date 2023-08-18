@@ -1,4 +1,4 @@
-![c1](https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/412acf6e-b881-4856-90ba-125c7915b977)<h1 align="left">FigmaEX-CSS皮肤</h1>
+<h1 align="left">FigmaEX-CSS皮肤</h1>
 使用方法：在EX插件面板的设置中，找到皮肤代码，粘贴代码即可。<br />
 
 ### 图片介绍：
