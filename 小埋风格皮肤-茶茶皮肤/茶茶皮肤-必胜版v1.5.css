@@ -117,17 +117,16 @@ body .FigmaExApp .ExBar .header .find-input input {
 /* 搜索为空提示语 */
 body .FigmaExApp .ExBar .action-list .empty-found {
   color: #C86A37;
-  height: 52px;
+  height: 58px;
   line-height: 14px;
   padding: 6px 0px;
   box-sizing: border-box;
-  border: 2px solid #91512a;
   margin-right: 4px;
-  border-radius: 16px;
+  border-radius: 20px;
   width: 97%;
   font-weight: bold;
-  background: #F1CAB1;
-  background-position: center 19px;
+  background: #ffc8a5;
+  background-position: center 26px;
   background-repeat: no-repeat;
   background-size: 64px 28px;
   background-image: url("data:image/png;base64,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");
@@ -275,7 +274,8 @@ body .FigmaExApp.compact-ui .ExBar .top-list, body[data-preferred-theme=dark] .F
 /* =====插件内部文字===== */
 /*大标题*/
 body .FigmaExApp .ActionItem .action-info .name, body[data-preferred-theme=dark] .FigmaExApp .ActionItem .action-info .name {
-  height: 18px;
+  height: 14px;
+  line-height: 14px;
   font-size: 12px;
   font-weight: bold;
   color: #5D2D32;
@@ -387,40 +387,35 @@ body .figmaex-localfont-but, body[data-preferred-theme=dark] .figmaex-localfont-
   background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0ibm9uZSI+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIj48cGF0aCBmaWxsPSIjRkVGMEU3IiBkPSJNMjMuMDAxIDEyYzAtNi4wNzUtNC45MjUtMTEtMTEtMTFzLTExIDQuOTI1LTExIDExIDQuOTI1IDExIDExIDExIDExLTQuOTI1IDExLTExWiIvPjxwYXRoIHN0cm9rZT0iIzgzNTQ1OSIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNMjMuMDAxIDEyYzAtNi4wNzUtNC45MjUtMTEtMTEtMTFzLTExIDQuOTI1LTExIDExIDQuOTI1IDExIDExIDExIDExLTQuOTI1IDExLTExWiIvPjxwYXRoIGZpbGw9IiNGMDhGNTQiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTcgNmExIDEgMCAwIDAgMCAyaDR2MTBhMSAxIDAgMSAwIDIgMFY4aDRhMSAxIDAgMSAwIDAtMkg3WiIgY2xpcC1ydWxlPSJldmVub2RkIi8+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iYSI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgyNHYyNEgweiIvPjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==");
 }
 /*复制图标*/
-#figma_ex_copy_font_button{
-	background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0ibm9uZSI+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIj48cGF0aCBmaWxsPSIjRkVGMEU3IiBkPSJNMjMuMDAxIDEyYzAtNi4wNzUtNC45MjUtMTEtMTEtMTFzLTExIDQuOTI1LTExIDExIDQuOTI1IDExIDExIDExIDExLTQuOTI1IDExLTExWiIvPjxwYXRoIHN0cm9rZT0iIzgzNTQ1OSIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNMjMuMDAxIDEyYzAtNi4wNzUtNC45MjUtMTEtMTEtMTFzLTExIDQuOTI1LTExIDExIDQuOTI1IDExIDExIDExIDExLTQuOTI1IDExLTExWiIvPjxwYXRoIGZpbGw9IiNGMDhGNTQiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTEwIDUuNWExIDEgMCAwIDAgMCAyaDZ2NmExIDEgMCAxIDAgMiAwdi03YTEgMSAwIDAgMC0xLTFoLTdaTTYuNSA5YTEgMSAwIDAgMC0xIDF2Ny4wNzdhMSAxIDAgMCAwIDEgMWg3YTEgMSAwIDAgMCAxLTFWMTBhMSAxIDAgMCAwLTEtMWgtN1ptMSA3LjA3N1YxMWg1djUuMDc3aC01WiIgY2xpcC1ydWxlPSJldmVub2RkIi8+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iYSI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgyNHYyNEgweiIvPjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==);
+#figma_ex_copy_font_button {
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0ibm9uZSI+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIj48cGF0aCBmaWxsPSIjRkVGMEU3IiBkPSJNMjMuMDAxIDEyYzAtNi4wNzUtNC45MjUtMTEtMTEtMTFzLTExIDQuOTI1LTExIDExIDQuOTI1IDExIDExIDExIDExLTQuOTI1IDExLTExWiIvPjxwYXRoIHN0cm9rZT0iIzgzNTQ1OSIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNMjMuMDAxIDEyYzAtNi4wNzUtNC45MjUtMTEtMTEtMTFzLTExIDQuOTI1LTExIDExIDQuOTI1IDExIDExIDExIDExLTQuOTI1IDExLTExWiIvPjxwYXRoIGZpbGw9IiNGMDhGNTQiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTEwIDUuNWExIDEgMCAwIDAgMCAyaDZ2NmExIDEgMCAxIDAgMiAwdi03YTEgMSAwIDAgMC0xLTFoLTdaTTYuNSA5YTEgMSAwIDAgMC0xIDF2Ny4wNzdhMSAxIDAgMCAwIDEgMWg3YTEgMSAwIDAgMCAxLTFWMTBhMSAxIDAgMCAwLTEtMWgtN1ptMSA3LjA3N1YxMWg1djUuMDc3aC01WiIgY2xpcC1ydWxlPSJldmVub2RkIi8+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iYSI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgyNHYyNEgweiIvPjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==);
 }
-
 /*复制框*/
-.FigmaExApp .MiniMenu{
-	background: #FEF0E7;
-	color: #5D2D32;
-	padding: 8px;		
+.FigmaExApp .MiniMenu {
+  background: #FEF0E7;
+  color: #5D2D32;
+  padding: 8px;
 }
 /*复制框列表*/
 .FigmaExApp .MiniMenu .MenuItem {
-    padding: 8px 16px;
-	font-size: 13px;
+  padding: 8px 16px;
+  font-size: 13px;
 }
 /*复制框列表hover*/
 .FigmaExApp .MiniMenu .MenuItem:hover {
-   background: #F3ABC3;
+  background: #F3ABC3;
 }
 /*粘贴按钮*/
-.FigmaExApp .MiniMenu .MenuItem.topLine{
-	color: #5D2D32;
-	border-top: 1px solid #efd3d3;
-	height: 22px;
-    line-height: 22px;
+.FigmaExApp .MiniMenu .MenuItem.topLine {
+  color: #5D2D32;
+  border-top: 1px solid #efd3d3;
+  height: 22px;
+  line-height: 22px;
 }
 /*粘贴按钮-没付之前*/
-.FigmaExApp .MiniMenu .MenuItem.disabled{
-	color: #cab2b4;
+.FigmaExApp .MiniMenu .MenuItem.disabled {
+  color: #cab2b4;
 }
-
-
-
-
 /* 字体按钮-鼠标经过 */
 body .figmaex-localfont-but:hover {
   background-color: rgba(253, 173, 124, 0.2);
