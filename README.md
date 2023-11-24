@@ -1,5 +1,5 @@
 <h1 align="left">FigmaEX-CSS皮肤</h1>
-使用方法：在EX插件面板的设置中，找到皮肤代码，粘贴代码即可。<br />
+使用方法：在EX插件面板的设置中，找到皮肤CSS模块，粘贴代码即可。<br />
 
 ### 图片介绍：
 <img width="100%" alt="图片介绍" src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/f7da2d81-2571-4a45-abc4-0fec9979f2ea"/>
