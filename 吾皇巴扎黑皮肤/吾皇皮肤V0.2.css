@@ -444,6 +444,20 @@ body .FigmaExApp.compact-ui .ExBar .reseize-hand:hover .dot {
   background-repeat: no-repeat;
   background-size: 40px auto;
 }
+/* =====清除透明模式===== */
+/*隐藏透明模式*/
+.FigmaExApp .Settings .mCheckbox:nth-last-child(2) {
+  display: none;
+}
+/*特有头部背景*/
+.FigmaExApp .ExBar.glass::before, body[data-preferred-theme=dark] .FigmaExApp .ExBar.glass::before {
+  background: none;
+  backdrop-filter: none;
+}
+/*css框颜色*/
+.FigmaExApp .Settings > .set:nth-last-child(2) .set-item textarea {
+  border: 2px solid #000;
+}
 /*版本*/
 .FigmaExApp .Settings > .set:nth-last-child(2) .set-item {
   position: relative
@@ -458,17 +472,4 @@ body .FigmaExApp.compact-ui .ExBar .reseize-hand:hover .dot {
   top: 36px;
   box-sizing: border-box;
 }
-/*css框颜色*/
-.FigmaExApp .Settings > .set:nth-last-child(2) .set-item textarea {
-  border: 2px solid #000;
-}
-/* =====清除透明模式===== */
-/*隐藏透明模式*/
-.FigmaExApp .Settings .mCheckbox:nth-last-child(2) {
-  display: none;
-}
-/*特有头部背景*/
-.FigmaExApp .ExBar.glass::before, body[data-preferred-theme=dark] .FigmaExApp .ExBar.glass::before {
-  background: none;
-  backdrop-filter: none;
-}
+/* ====Github地址：https://github.com/liteyais/FigmaEX-CSS-Skin==== */
