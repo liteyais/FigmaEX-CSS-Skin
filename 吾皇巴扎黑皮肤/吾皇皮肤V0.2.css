@@ -57,18 +57,18 @@ body .FigmaExApp .ExBar {
 }
 /* 头部帽子-紧凑布局 */
 .FigmaExApp.figma-ex-root.compact-ui:before {
-  background-size: 62px auto;
+  background-size: 63px auto;
   width: 62px;
   right: 241px;
-  top: 46px;
+  top: 54px;
   transition: all 0s ease;
 }
 /* 头部帽子-紧凑布局hover */
 .FigmaExApp.figma-ex-root.compact-ui:hover:before {
   background-size: 71px auto;
-    width: 71px;
-    right: 236px;
-    top: 46px;
+  width: 71px;
+  right: 236px;
+  top: 54px;
   transition: all 0s ease;
 }
 /*顶部颜色*/
@@ -91,8 +91,8 @@ body .FigmaExApp .ExBar .header {
 }
 /*【紧凑】顶部*/
 .FigmaExApp.compact-ui .ExBar .header {
-  margin-top: 20px;
-  height: 26px;
+  margin-top: 19px;
+  height: 38px;
 }
 /* =====头部-结束===== */
 /* =====搜索 开始===== */
@@ -174,7 +174,6 @@ body .FigmaExApp.compact-ui .ExBar .action-list {
 /*列表-外层紧凑-最小化*/
 body .FigmaExApp.compact-ui .ExBar .action-list {
   padding-top: 0;
-	
 }
 body .FigmaExApp .ExBar.expanded .action-list {
   display: block;
@@ -202,8 +201,8 @@ body .FigmaExApp .ActionItem .note-but, body .FigmaExApp .ActionItem .star-but, 
   background-position: center;
 }
 /* 清除暗黑模式变黑 */
-body[data-preferred-theme=dark] .FigmaExApp .ActionItem .buttons>div, body[data-preferred-theme=dark] .SearchList .ActionItem .info-but {
-    filter: invert(0) grayscale(0);
+body[data-preferred-theme=dark] .FigmaExApp .ActionItem .buttons > div, body[data-preferred-theme=dark] .SearchList .ActionItem .info-but {
+  filter: invert(0) grayscale(0);
 }
 /* 编辑 */
 body .FigmaExApp .ActionItem .note-but {
@@ -249,7 +248,7 @@ body .FigmaExApp .ExBar .markt-result .goto-markt:hover {
 }
 /*搜索后清除叉号颜色*/
 body[data-preferred-theme=dark] .FigmaExApp .ExBar .header .setting-but img, body[data-preferred-theme=dark] .FigmaExApp .ExBar .header .clear-but img {
-    filter: invert(0);
+  filter: invert(0);
 }
 /* =====滚动条 开始===== */
 /*粗细*/
@@ -288,7 +287,7 @@ body .FigmaExApp .ExBar .ActionItem:hover, body[data-preferred-theme=dark] .Figm
 /* 【紧凑】列表间距 */
 body .FigmaExApp.compact-ui .ExBar .ActionItem {
   padding: 2px 1px;
-	border-radius: 8px;
+  border-radius: 8px;
   height: 30px;
 }
 /*大标题*/
@@ -332,13 +331,11 @@ body .FigmaExApp.expanded .ExBar .top-list, body[data-preferred-theme=dark] .Fig
 }
 /*收藏与非收藏分割线-紧凑*/
 body .FigmaExApp.compact-ui .ExBar .top-list, body[data-preferred-theme=dark] .FigmaExApp.compact-ui .ExBar .top-list {
-  background-position: bottom right -56px;
+  background-position: bottom right -24px;
 }
 body .FigmaExApp.compact-ui.expanded .ExBar .top-list, body[data-preferred-theme=dark] .FigmaExApp.compact-ui.expanded .ExBar .top-list {
   background-position: left 4px bottom;
 }
-
-
 /*==============字体选择器-开始=================*/
 body .figmaex-localfont-but, body[data-preferred-theme=dark] .figmaex-localfont-but {
   filter: invert(0);
@@ -348,17 +345,14 @@ body .figmaex-localfont-but, body[data-preferred-theme=dark] .figmaex-localfont-
   background-repeat: no-repeat;
   background-position: center;
 }
-
 /*复制图标*/
-#figma_ex_copy_font_button{
-	background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiByeD0iMTEiIGZpbGw9IndoaXRlIi8+CjxyZWN0IHg9IjEiIHk9IjEiIHdpZHRoPSIyMiIgaGVpZ2h0PSIyMiIgcng9IjExIiBzdHJva2U9IiMyODFCMTIiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNMTYuODAxNSAxMi43MTcxQzE2LjY3MDIgMTAuOTE4NiAxNC44NjI2IDEwLjYxMDkgMTMuOTc1MiAxMC42ODE4QzEzLjI5MDkgMTAuMzA2NCAxMS43MjU3IDkuODEyOTcgMTAuOTM4OSAxMC44NDIxQzEwLjE1MjEgMTEuODcxMyAxMC4zNjUgMTIuNjUyMSAxMC41Njk4IDEyLjkxMzlDMTAuMTg3MSAxMy41Njk4IDkuNjQ4MDMgMTUuMTcwNiAxMC41NTM1IDE2LjMyNjZDMTEuNDU5IDE3LjQ4MjUgMTMuNDU2NCAxNi44NTcyIDE0LjM0MiAxNi40QzE1LjIxNjUgMTUuOTIxNyAxNi45MzI4IDE0LjUxNTUgMTYuODAxNSAxMi43MTcxWiIgZmlsbD0iI0ZGOThBNSIvPgo8ZWxsaXBzZSBjeD0iMS45Mjk2NyIgY3k9IjEuNjUzMzciIHJ4PSIxLjkyOTY3IiByeT0iMS42NTMzNyIgdHJhbnNmb3JtPSJtYXRyaXgoLTAuNTIxNjE5IDAuODUzMTc4IC0wLjgzNDk2OSAtMC41NTAyOTcgMTkuNSA2Ljg1NCkiIGZpbGw9IiNGRjk4QTUiLz4KPGVsbGlwc2UgY3g9IjEuOTI5NjciIGN5PSIxLjY1MzM3IiByeD0iMS45Mjk2NyIgcnk9IjEuNjUzMzciIHRyYW5zZm9ybT0ibWF0cml4KC0wLjUyMTYxOSAwLjg1MzE3OCAtMC44MzQ5NjkgLTAuNTUwMjk3IDE0LjQxODkgNi44MTk4MikiIGZpbGw9IiNGRjk4QTUiLz4KPGVsbGlwc2UgY3g9IjEuOTIxNzQiIGN5PSIxLjY0OTk1IiByeD0iMS45MjE3NCIgcnk9IjEuNjQ5OTUiIHRyYW5zZm9ybT0ibWF0cml4KDAuNTk4MzQ3IDAuODAxMjM3IC0wLjc3OTk2NyAwLjYyNTgyMSA3Ljk3OTQ5IDguMzM5ODQpIiBmaWxsPSIjRkY5OEE1Ii8+CjxlbGxpcHNlIGN4PSIyLjAyMjc2IiBjeT0iMS45NDI1IiByeD0iMi4wMjI3NiIgcnk9IjEuOTQyNSIgdHJhbnNmb3JtPSJtYXRyaXgoMC45NDExNiAwLjMzNzk2MSAtMC4zMTUwMjQgMC45NDkwODQgNS43MjM2MyAxMy42Njk5KSIgZmlsbD0iI0ZGOThBNSIvPgo8L3N2Zz4K");
+#figma_ex_copy_font_button {
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiByeD0iMTEiIGZpbGw9IndoaXRlIi8+CjxyZWN0IHg9IjEiIHk9IjEiIHdpZHRoPSIyMiIgaGVpZ2h0PSIyMiIgcng9IjExIiBzdHJva2U9IiMyODFCMTIiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNMTYuODAxNSAxMi43MTcxQzE2LjY3MDIgMTAuOTE4NiAxNC44NjI2IDEwLjYxMDkgMTMuOTc1MiAxMC42ODE4QzEzLjI5MDkgMTAuMzA2NCAxMS43MjU3IDkuODEyOTcgMTAuOTM4OSAxMC44NDIxQzEwLjE1MjEgMTEuODcxMyAxMC4zNjUgMTIuNjUyMSAxMC41Njk4IDEyLjkxMzlDMTAuMTg3MSAxMy41Njk4IDkuNjQ4MDMgMTUuMTcwNiAxMC41NTM1IDE2LjMyNjZDMTEuNDU5IDE3LjQ4MjUgMTMuNDU2NCAxNi44NTcyIDE0LjM0MiAxNi40QzE1LjIxNjUgMTUuOTIxNyAxNi45MzI4IDE0LjUxNTUgMTYuODAxNSAxMi43MTcxWiIgZmlsbD0iI0ZGOThBNSIvPgo8ZWxsaXBzZSBjeD0iMS45Mjk2NyIgY3k9IjEuNjUzMzciIHJ4PSIxLjkyOTY3IiByeT0iMS42NTMzNyIgdHJhbnNmb3JtPSJtYXRyaXgoLTAuNTIxNjE5IDAuODUzMTc4IC0wLjgzNDk2OSAtMC41NTAyOTcgMTkuNSA2Ljg1NCkiIGZpbGw9IiNGRjk4QTUiLz4KPGVsbGlwc2UgY3g9IjEuOTI5NjciIGN5PSIxLjY1MzM3IiByeD0iMS45Mjk2NyIgcnk9IjEuNjUzMzciIHRyYW5zZm9ybT0ibWF0cml4KC0wLjUyMTYxOSAwLjg1MzE3OCAtMC44MzQ5NjkgLTAuNTUwMjk3IDE0LjQxODkgNi44MTk4MikiIGZpbGw9IiNGRjk4QTUiLz4KPGVsbGlwc2UgY3g9IjEuOTIxNzQiIGN5PSIxLjY0OTk1IiByeD0iMS45MjE3NCIgcnk9IjEuNjQ5OTUiIHRyYW5zZm9ybT0ibWF0cml4KDAuNTk4MzQ3IDAuODAxMjM3IC0wLjc3OTk2NyAwLjYyNTgyMSA3Ljk3OTQ5IDguMzM5ODQpIiBmaWxsPSIjRkY5OEE1Ii8+CjxlbGxpcHNlIGN4PSIyLjAyMjc2IiBjeT0iMS45NDI1IiByeD0iMi4wMjI3NiIgcnk9IjEuOTQyNSIgdHJhbnNmb3JtPSJtYXRyaXgoMC45NDExNiAwLjMzNzk2MSAtMC4zMTUwMjQgMC45NDkwODQgNS43MjM2MyAxMy42Njk5KSIgZmlsbD0iI0ZGOThBNSIvPgo8L3N2Zz4K");
 }
-
 /*鼠标经过图标背景色-暗黑模式*/
 body[data-preferred-theme=dark] .figmaex-localfont-but:hover {
-    background-color: rgb(218 209 185 / 15%);
+  background-color: rgb(218 209 185 / 15%);
 }
-
 /* =====底部拖动条===== */
 /*底部框架*/
 body .FigmaExApp .ExBar .reseize-hand, body[data-preferred-theme=dark] .FigmaExApp .ExBar .reseize-hand {
@@ -386,7 +380,7 @@ body .FigmaExApp.compact-ui .ExBar .reseize-hand, body[data-preferred-theme=dark
 }
 /* =====底部拖动条===== */
 /*底部拖动小点*/
-body .FigmaExApp .ExBar .reseize-hand .dot,body[data-preferred-theme=dark] .FigmaExApp .ExBar .reseize-hand .dot {
+body .FigmaExApp .ExBar .reseize-hand .dot, body[data-preferred-theme=dark] .FigmaExApp .ExBar .reseize-hand .dot {
   border-radius: 0px;
   width: 54px;
   height: 50px;
@@ -395,7 +389,7 @@ body .FigmaExApp .ExBar .reseize-hand .dot,body[data-preferred-theme=dark] .Figm
   background-size: 54px 50px;
   background-repeat: no-repeat;
   background-color: transparent !important;
-  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NCIgaGVpZ2h0PSI1MCIgZmlsbD0ibm9uZSI+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIj48cGF0aCBmaWxsPSIjNzg3ODc4IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yNSA0Mi41Yy4wMzMtLjIxMi0uMDQxLjE4NyAwIDAgMCAuMTk2LjA3My0uMjAzIDAgMFoiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjxwYXRoIGZpbGw9IiM3ODc4NzgiIGQ9Ik0zMCAyNi41Yy4zOTUgMS4zNDggMS41IDQtLjEwMSA2Ljk3NCAzLjYgMCA2LjEtLjQgMTAuMSAxLjUyNiAxLS41NyAzLjUtMS4xMTQgNC40NTItMS45MjdDNDYuNSAzMS41IDUzIDI5IDUzIDR2LTdMMS00QzEgMTEuNzM4LjQ5NSAyNC4yNCA4Ljc5NyAzNy44MDJjLjg5NC0xLjgyNCA0Ljk4NC0yLjY5IDExLjg1Ny0zLjA4OGExNS4xOCAxNS4xOCAwIDAgMC0xLjAzNy0xLjI0Yy0uNzM2LS44MTMtMS4zNjYtMS41MS0xLjk0LTMuMjM3QzE1LjUgMjMuNSAyOC41NCAyMS41MjYgMzAgMjYuNVoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNOC43OTcgMzcuODAyQzcuNSA0Mi41IDEzLjAzIDQ3Ljc1IDE2LjEyMiA0Ny43NWM0LjgyIDAgOC41MTYtNC4yNSA4Ljg3OC01LjI1IDAtNC0yLjEwMS01LjkyNi00LjM0Ni03Ljc4Ni02Ljg3My4zOTgtMTAuOTYzIDEuMjY0LTExLjg1NyAzLjA4OFoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMzIuNzIgNDguNWMzLjE5Ny42MiA3Ljc4LTIuMDM2IDguMjgtNi41IDAtMi4zMTguMzU3LTQuOTY0LTEtNy00LTEuOTI3LTYuNS0xLjUyNi0xMC4xMDEtMS41MjYtLjc3OC43OTYtNC41NzUgNy4yMDItNC45IDkuMDI2IDEgMyAyLjA0OCA0LjkgNy43MiA2WiIvPjxwYXRoIHN0cm9rZT0iIzI4MUIxMiIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNMjUgNDIuNWMuMzI0LTEuODI0IDQuMTItOC4yMyA0Ljg5OS05LjAyNm0tNC45IDkuMDI2YzEgMyAyLjA0OCA0LjkgNy43MiA2IDMuMTk4LjYyIDcuNzgtMi4wMzYgOC4yOC02LjUgMC0yLjMxOC4zNTgtNC45NjQtMS03bS0xNSA3LjVjLS4zNiAxLTQuMDU2IDUuMjUtOC44NzcgNS4yNS0zLjA5MSAwLTguNjIyLTUuMjUtNy4zMjUtOS45NDhNMjUgNDIuNWMtLjA0MS4xODcuMDMzLS4yMTIgMCAwWm0wIDBjLjA3My0uMjAzIDAgLjE5NiAwIDBabTAgMGMwLTQtMi4xMDEtNS45MjYtNC4zNDYtNy43ODZNNDAgMzVjLTQtMS45MjctNi41LTEuNTI2LTEwLjEwMS0xLjUyNk0zOS45OTkgMzVjMS0uNTcgMy41LTEuMTE0IDQuNDUyLTEuOTI3QzQ2LjUgMzEuNSA1MyAyOSA1MyA0bTAgMHYtN20wIDd2LTdNMjkuODk5IDMzLjQ3NGMxLjYtMi45NzQuNDk2LTUuNjI2LjEtNi45NzQtMS40NTgtNC45NzQtMTQuNS0zLTEyLjMyMiAzLjczNy41NzQgMS43MjcgMS4yMDQgMi40MjQgMS45NCAzLjIzNy4zMjQuMzU4LjY2OC43MzkgMS4wMzcgMS4yNE04Ljc5NyAzNy44MDJjLjg5NC0xLjgyNCA0Ljk4NC0yLjY5IDExLjg1Ny0zLjA4OE04Ljc5NyAzNy44MDJDLjQ5NSAyNC4yNCAxIDExLjczOCAxLTRsNTIgMSIvPjxwYXRoIGZpbGw9IiM3ODc4NzgiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTI1IDQyLjVjLjAzMy0uMjEyLS4wNDEuMTg3IDAgMCAwIC4xOTYuMDczLS4yMDMgMCAwWiIgY2xpcC1ydWxlPSJldmVub2RkIi8+PHBhdGggc3Ryb2tlPSIjMjgxQjEyIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xLTdDMSA4LjczOC40OTUgMjQuMjQgOC43OTcgMzcuODAyTTI1IDQyLjVjLjMyNC0xLjgyNCA0LjEyLTguMjMgNC44OTktOS4wMjZtLTQuOSA5LjAyNmMxIDMgMi4wNDggNC45IDcuNzIgNiAzLjE5OC42MiA3Ljc4LTIuMDM2IDguMjgtNi41IDAtMi4zMTguMzU4LTQuOTY0LTEtN20tMTUgNy41Yy0uMzYgMS00LjA1NiA1LjI1LTguODc3IDUuMjUtMy4wOTEgMC04LjYyMi00Ljc1LTcuMzI1LTkuOTQ4TTI1IDQyLjVjLS4wNDEuMTg3LjAzMy0uMjEyIDAgMFptMCAwYy4wNzMtLjIwMyAwIC4xOTYgMCAwWm0wIDBjMC00LTIuMTAxLTUuOTI2LTQuMzQ2LTcuNzg2TTQwIDM1Yy00LTEuOTI3LTYuNS0xLjUyNi0xMC4xMDEtMS41MjZNMzkuOTk5IDM1YzEtLjU3IDMuNS0xLjExNCA0LjQ1Mi0xLjkyN0M0Ni41IDMxLjUgNTMgMjkgNTMgNHYtN00yOS44OTkgMzMuNDc0YzEuNi0yLjk3NC40OTYtNS42MjYuMS02Ljk3NC0xLjQ1OC00Ljk3NC0xNC41LTMtMTIuMzIyIDMuNzM3LjU3NCAxLjcyNyAxLjIwNCAyLjQyNCAxLjk0IDMuMjM3LjMyNC4zNTguNjY4LjczOSAxLjAzNyAxLjI0TTguNzk3IDM3LjgwMmMuODk0LTEuODI0IDQuOTg0LTIuNjkgMTEuODU3LTMuMDg4Ii8+PGVsbGlwc2UgY3g9IjQuNzQ3IiBjeT0iMS42NTQiIGZpbGw9IiMyODFCMTIiIHJ4PSI0Ljc0NyIgcnk9IjEuNjU0IiB0cmFuc2Zvcm09InNjYWxlKC0xIDEpIHJvdGF0ZSgyMS41NTUgLTI2LjYwOCAtMjAuNjYpIi8+PHBhdGggZmlsbD0iIzI4MUIxMiIgZD0iTTMuNjQgMjYuODY1Yy4zOTcgMS4wMDMgMy4xNy44NDggNi4xOTUtLjM0NyAzLjAyNS0xLjE5NSA1LjE1NS0yLjk3NyA0Ljc1OS0zLjk4LS4zOTYtMS4wMDMtMy4wNjIuMjE0LTYuMDg2IDEuNDA5LTMuMDI1IDEuMTk1LTUuMjY0IDEuOTE0LTQuODY4IDIuOTE4Wk01My41OTMgMTAuOTE4Yy0uNzIgMS44Mi00Ljg0MiAxLjg5Ny05LjIwOC4xNzMtNC4zNjYtMS43MjUtNy4zMjItNC41OTktNi42MDQtNi40MTkuNzItMS44MiA1LjgzIDEuMTYgMTAuMTk3IDIuODg0IDQuMzY2IDEuNzI1IDYuMzMzIDEuNTQyIDUuNjE0IDMuMzYyWk00OC4wOSAyOC4yNzFjLS41MDcgMS4yODQtMy44NjcgMS4xNi03LjUwNC0uMjc3LTMuNjM4LTEuNDM2LTYuMTc1LTMuNjQyLTUuNjY4LTQuOTI2LjUwNy0xLjI4NCAzLjQyNi45MTUgNy4yMTkgMS42MzYgMy42MzcgMS40MzcgNi40NiAyLjI4MyA1Ljk1MyAzLjU2N1oiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTYuNSAyMC41QzUuMDQ3IDE1LjA4NiA0LjQxIDYuMjMgMTAgMi41Vi0xaDMzdjNjOS4wMzMgNy41MjcgMi41OTcgMTUuNjkyLTcgMTktNi4zNCAyLjE4Ni0xNC4xMyAxLjY4OC0xOS41LS41WiIvPjxwYXRoIHN0cm9rZT0iIzI4MUIxMiIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNNDQtNS41VjJjOS4wMzIgNy41MjcgMS41OTcgMTUuNjkyLTggMTktNi4zNCAyLjE4Ni0xNC4xMyAxLjY4OC0xOS41LS41QzUuMDQ3IDE1LjA4NiA0LjQxIDYuMjMgMTAgMi41Vi0xIi8+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iYSI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGg1NHY1MEgweiIvPjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==")!important;
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NCIgaGVpZ2h0PSI1MCIgZmlsbD0ibm9uZSI+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIj48cGF0aCBmaWxsPSIjNzg3ODc4IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yNSA0Mi41Yy4wMzMtLjIxMi0uMDQxLjE4NyAwIDAgMCAuMTk2LjA3My0uMjAzIDAgMFoiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjxwYXRoIGZpbGw9IiM3ODc4NzgiIGQ9Ik0zMCAyNi41Yy4zOTUgMS4zNDggMS41IDQtLjEwMSA2Ljk3NCAzLjYgMCA2LjEtLjQgMTAuMSAxLjUyNiAxLS41NyAzLjUtMS4xMTQgNC40NTItMS45MjdDNDYuNSAzMS41IDUzIDI5IDUzIDR2LTdMMS00QzEgMTEuNzM4LjQ5NSAyNC4yNCA4Ljc5NyAzNy44MDJjLjg5NC0xLjgyNCA0Ljk4NC0yLjY5IDExLjg1Ny0zLjA4OGExNS4xOCAxNS4xOCAwIDAgMC0xLjAzNy0xLjI0Yy0uNzM2LS44MTMtMS4zNjYtMS41MS0xLjk0LTMuMjM3QzE1LjUgMjMuNSAyOC41NCAyMS41MjYgMzAgMjYuNVoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNOC43OTcgMzcuODAyQzcuNSA0Mi41IDEzLjAzIDQ3Ljc1IDE2LjEyMiA0Ny43NWM0LjgyIDAgOC41MTYtNC4yNSA4Ljg3OC01LjI1IDAtNC0yLjEwMS01LjkyNi00LjM0Ni03Ljc4Ni02Ljg3My4zOTgtMTAuOTYzIDEuMjY0LTExLjg1NyAzLjA4OFoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMzIuNzIgNDguNWMzLjE5Ny42MiA3Ljc4LTIuMDM2IDguMjgtNi41IDAtMi4zMTguMzU3LTQuOTY0LTEtNy00LTEuOTI3LTYuNS0xLjUyNi0xMC4xMDEtMS41MjYtLjc3OC43OTYtNC41NzUgNy4yMDItNC45IDkuMDI2IDEgMyAyLjA0OCA0LjkgNy43MiA2WiIvPjxwYXRoIHN0cm9rZT0iIzI4MUIxMiIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNMjUgNDIuNWMuMzI0LTEuODI0IDQuMTItOC4yMyA0Ljg5OS05LjAyNm0tNC45IDkuMDI2YzEgMyAyLjA0OCA0LjkgNy43MiA2IDMuMTk4LjYyIDcuNzgtMi4wMzYgOC4yOC02LjUgMC0yLjMxOC4zNTgtNC45NjQtMS03bS0xNSA3LjVjLS4zNiAxLTQuMDU2IDUuMjUtOC44NzcgNS4yNS0zLjA5MSAwLTguNjIyLTUuMjUtNy4zMjUtOS45NDhNMjUgNDIuNWMtLjA0MS4xODcuMDMzLS4yMTIgMCAwWm0wIDBjLjA3My0uMjAzIDAgLjE5NiAwIDBabTAgMGMwLTQtMi4xMDEtNS45MjYtNC4zNDYtNy43ODZNNDAgMzVjLTQtMS45MjctNi41LTEuNTI2LTEwLjEwMS0xLjUyNk0zOS45OTkgMzVjMS0uNTcgMy41LTEuMTE0IDQuNDUyLTEuOTI3QzQ2LjUgMzEuNSA1MyAyOSA1MyA0bTAgMHYtN20wIDd2LTdNMjkuODk5IDMzLjQ3NGMxLjYtMi45NzQuNDk2LTUuNjI2LjEtNi45NzQtMS40NTgtNC45NzQtMTQuNS0zLTEyLjMyMiAzLjczNy41NzQgMS43MjcgMS4yMDQgMi40MjQgMS45NCAzLjIzNy4zMjQuMzU4LjY2OC43MzkgMS4wMzcgMS4yNE04Ljc5NyAzNy44MDJjLjg5NC0xLjgyNCA0Ljk4NC0yLjY5IDExLjg1Ny0zLjA4OE04Ljc5NyAzNy44MDJDLjQ5NSAyNC4yNCAxIDExLjczOCAxLTRsNTIgMSIvPjxwYXRoIGZpbGw9IiM3ODc4NzgiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTI1IDQyLjVjLjAzMy0uMjEyLS4wNDEuMTg3IDAgMCAwIC4xOTYuMDczLS4yMDMgMCAwWiIgY2xpcC1ydWxlPSJldmVub2RkIi8+PHBhdGggc3Ryb2tlPSIjMjgxQjEyIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xLTdDMSA4LjczOC40OTUgMjQuMjQgOC43OTcgMzcuODAyTTI1IDQyLjVjLjMyNC0xLjgyNCA0LjEyLTguMjMgNC44OTktOS4wMjZtLTQuOSA5LjAyNmMxIDMgMi4wNDggNC45IDcuNzIgNiAzLjE5OC42MiA3Ljc4LTIuMDM2IDguMjgtNi41IDAtMi4zMTguMzU4LTQuOTY0LTEtN20tMTUgNy41Yy0uMzYgMS00LjA1NiA1LjI1LTguODc3IDUuMjUtMy4wOTEgMC04LjYyMi00Ljc1LTcuMzI1LTkuOTQ4TTI1IDQyLjVjLS4wNDEuMTg3LjAzMy0uMjEyIDAgMFptMCAwYy4wNzMtLjIwMyAwIC4xOTYgMCAwWm0wIDBjMC00LTIuMTAxLTUuOTI2LTQuMzQ2LTcuNzg2TTQwIDM1Yy00LTEuOTI3LTYuNS0xLjUyNi0xMC4xMDEtMS41MjZNMzkuOTk5IDM1YzEtLjU3IDMuNS0xLjExNCA0LjQ1Mi0xLjkyN0M0Ni41IDMxLjUgNTMgMjkgNTMgNHYtN00yOS44OTkgMzMuNDc0YzEuNi0yLjk3NC40OTYtNS42MjYuMS02Ljk3NC0xLjQ1OC00Ljk3NC0xNC41LTMtMTIuMzIyIDMuNzM3LjU3NCAxLjcyNyAxLjIwNCAyLjQyNCAxLjk0IDMuMjM3LjMyNC4zNTguNjY4LjczOSAxLjAzNyAxLjI0TTguNzk3IDM3LjgwMmMuODk0LTEuODI0IDQuOTg0LTIuNjkgMTEuODU3LTMuMDg4Ii8+PGVsbGlwc2UgY3g9IjQuNzQ3IiBjeT0iMS42NTQiIGZpbGw9IiMyODFCMTIiIHJ4PSI0Ljc0NyIgcnk9IjEuNjU0IiB0cmFuc2Zvcm09InNjYWxlKC0xIDEpIHJvdGF0ZSgyMS41NTUgLTI2LjYwOCAtMjAuNjYpIi8+PHBhdGggZmlsbD0iIzI4MUIxMiIgZD0iTTMuNjQgMjYuODY1Yy4zOTcgMS4wMDMgMy4xNy44NDggNi4xOTUtLjM0NyAzLjAyNS0xLjE5NSA1LjE1NS0yLjk3NyA0Ljc1OS0zLjk4LS4zOTYtMS4wMDMtMy4wNjIuMjE0LTYuMDg2IDEuNDA5LTMuMDI1IDEuMTk1LTUuMjY0IDEuOTE0LTQuODY4IDIuOTE4Wk01My41OTMgMTAuOTE4Yy0uNzIgMS44Mi00Ljg0MiAxLjg5Ny05LjIwOC4xNzMtNC4zNjYtMS43MjUtNy4zMjItNC41OTktNi42MDQtNi40MTkuNzItMS44MiA1LjgzIDEuMTYgMTAuMTk3IDIuODg0IDQuMzY2IDEuNzI1IDYuMzMzIDEuNTQyIDUuNjE0IDMuMzYyWk00OC4wOSAyOC4yNzFjLS41MDcgMS4yODQtMy44NjcgMS4xNi03LjUwNC0uMjc3LTMuNjM4LTEuNDM2LTYuMTc1LTMuNjQyLTUuNjY4LTQuOTI2LjUwNy0xLjI4NCAzLjQyNi45MTUgNy4yMTkgMS42MzYgMy42MzcgMS40MzcgNi40NiAyLjI4MyA1Ljk1MyAzLjU2N1oiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTYuNSAyMC41QzUuMDQ3IDE1LjA4NiA0LjQxIDYuMjMgMTAgMi41Vi0xaDMzdjNjOS4wMzMgNy41MjcgMi41OTcgMTUuNjkyLTcgMTktNi4zNCAyLjE4Ni0xNC4xMyAxLjY4OC0xOS41LS41WiIvPjxwYXRoIHN0cm9rZT0iIzI4MUIxMiIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNNDQtNS41VjJjOS4wMzIgNy41MjcgMS41OTcgMTUuNjkyLTggMTktNi4zNCAyLjE4Ni0xNC4xMyAxLjY4OC0xOS41LS41QzUuMDQ3IDE1LjA4NiA0LjQxIDYuMjMgMTAgMi41Vi0xIi8+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iYSI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGg1NHY1MEgweiIvPjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==") !important;
 }
 /*底部拖动小点hover*/
 body .FigmaExApp .ExBar .reseize-hand:hover .dot {
@@ -411,34 +405,31 @@ body .FigmaExApp.compact-ui .ExBar .reseize-hand .dot {
   background-repeat: no-repeat;
   background-size: 40px auto;
 }
-
 /*-------------*/
 /*【最小化】显示腿部*/
-
 body .FigmaExApp .ExBar.mini:not(.expanded):not(.focus) .reseize-hand {
-    display: block;
-    background-color: transparent !important;
+  display: block;
+  background-color: transparent !important;
 }
 /*【最小化】列表高度-撑起腿部*/
-.FigmaExApp .ExBar.mini:not(.expanded):not(.focus)  {
-    height: 125px;
-    padding-bottom: 0;
+.FigmaExApp .ExBar.mini:not(.expanded):not(.focus) {
+  height: 125px;
+  padding-bottom: 0;
 }
 /*【最小化】【紧凑】列表高度-撑起腿部*/
 .FigmaExApp.compact-ui .ExBar.mini:not(.expanded):not(.focus) {
-    height: 106px;
-    padding-bottom: 0;
+  height: 116px;
+  padding-bottom: 0;
 }
 /*【最小化】列表背景隐藏*/
-.FigmaExApp .ExBar.mini:not(.expanded):not(.focus) .action-list  {
+.FigmaExApp .ExBar.mini:not(.expanded):not(.focus) .action-list {
   background: transparent !important;
   height: 0px;
 }
 /*【最小化】列表插件隐藏*/
 .FigmaExApp .ExBar.mini:not(.expanded):not(.focus) .action-list .ActionItem {
-  display: none!important;
-} 
-
+  display: none !important;
+}
 /*【紧凑】底部拖动小点hover*/
 body .FigmaExApp.compact-ui .ExBar .reseize-hand:hover .dot {
   background-repeat: no-repeat;
