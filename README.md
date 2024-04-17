@@ -43,7 +43,7 @@
 ## 二、小埋风格皮肤（适用于Figma浅色+深色模式）<br />
 **板式一、皮肤名称：【茶茶皮肤-必胜版】**<br /><br />
 **1、介绍：** 包含内容：适配最新EX，功能包含：字体面板、动效，及支持深色模式<br />
-**2、地址：**[茶茶皮肤-必胜版v1.8](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%BF%85%E8%83%9C%E7%89%88v1.8.css) <br />
+**2、地址：**[茶茶皮肤-必胜版v1.8](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4-%E5%BF%85%E8%83%9C%E7%89%88v1.9.css) <br />
 **3、更新：**[更新记录](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.md) <br /><br />
 <div align="left">
 <img width="610px"   src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/9c1c56fb-ad5e-4f21-90cd-da1592c3a21d"/>
