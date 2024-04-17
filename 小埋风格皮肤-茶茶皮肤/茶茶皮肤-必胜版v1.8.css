@@ -611,7 +611,7 @@ body .FigmaExApp .ExBar .action-list::-webkit-scrollbar-thumb:hover, body[data-p
   margin-bottom: 20px;
 }
 .FigmaExApp .Settings .tabs-container .tab-box:nth-last-child(4) div:nth-last-child(3):after {
-  content: "茶茶必胜版_V1.7";
+  content: "茶茶必胜版_V1.8";
   pointer-events: none;
   position: absolute;
   width: auto;
