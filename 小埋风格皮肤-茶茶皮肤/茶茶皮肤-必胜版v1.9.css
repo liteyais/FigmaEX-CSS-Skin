@@ -1,8 +1,5 @@
 /* ====皮肤Github地址：https://github.com/liteyais/FigmaEX-CSS-Skin==== */
-
 /* ~(￣▽￣)~*/
-
-
 /*主题ex*/
 body .FigmaExApp .ExBar, body[data-preferred-theme=dark] .FigmaExApp .ExBar {
   top: 72px;
@@ -140,13 +137,13 @@ body[data-preferred-theme=dark] .FigmaExApp .ExBar.glass::before {
   transition: all .1s linear;
 }
 /*分组选中重命名*/
-.FigmaExApp .GroupPad .group-list .group.isEdit .name-input{
-	color: #E75B87;
-	font-size: 13px;
+.FigmaExApp .GroupPad .group-list .group.isEdit .name-input {
+  color: #E75B87;
+  font-size: 13px;
 }
 /*分组选中重命名底部线*/
-.FigmaExApp .GroupPad .group-list .group input.name-input{
-	border-bottom: 1px solid #b05d4a;
+.FigmaExApp .GroupPad .group-list .group input.name-input {
+  border-bottom: 1px solid #b05d4a;
 }
 /*分组字体*/
 .FigmaExApp .GroupPad .group-list .group, body[data-preferred-theme=dark] .FigmaExApp .GroupPad .group-list .group {
@@ -392,7 +389,7 @@ body .FigmaExApp .ActionItem:hover .action-info .note-name, body[data-preferred-
 /* =====插件列表 结束===== */
 /* =====字体及字体列表===== */
 /* 字体按钮 */
-#figma_ex_local_fonts_el{
+#figma_ex_local_fonts_el {
   filter: invert(0);
   margin-left: 0;
   background-position: center;
@@ -401,13 +398,15 @@ body .FigmaExApp .ActionItem:hover .action-info .note-name, body[data-preferred-
 }
 /*复制图标*/
 #figma_ex_copy_font_button {
+  filter: invert(0);
   background-size: 22px 22px;
   background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0ibm9uZSI+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIj48cGF0aCBmaWxsPSIjRkVGMEU3IiBkPSJNMjMuMDAxIDEyYzAtNi4wNzUtNC45MjUtMTEtMTEtMTFzLTExIDQuOTI1LTExIDExIDQuOTI1IDExIDExIDExIDExLTQuOTI1IDExLTExWiIvPjxwYXRoIHN0cm9rZT0iIzgzNTQ1OSIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNMjMuMDAxIDEyYzAtNi4wNzUtNC45MjUtMTEtMTEtMTFzLTExIDQuOTI1LTExIDExIDQuOTI1IDExIDExIDExIDExLTQuOTI1IDExLTExWiIvPjxwYXRoIGZpbGw9IiNGMDhGNTQiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTEwIDUuNWExIDEgMCAwIDAgMCAyaDZ2NmExIDEgMCAxIDAgMiAwdi03YTEgMSAwIDAgMC0xLTFoLTdaTTYuNSA5YTEgMSAwIDAgMC0xIDF2Ny4wNzdhMSAxIDAgMCAwIDEgMWg3YTEgMSAwIDAgMCAxLTFWMTBhMSAxIDAgMCAwLTEtMWgtN1ptMSA3LjA3N1YxMWg1djUuMDc3aC01WiIgY2xpcC1ydWxlPSJldmVub2RkIi8+PC9nPjxkZWZzPjxjbGlwUGF0aCBpZD0iYSI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgyNHYyNEgweiIvPjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==);
 }
 /*切片工具*/
-#figma_ex_slice_el{
-	background-size: 22px 22px;
-	background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIj48cGF0aCBkPSJNMjMuMDAxIDEyYzAtNi4wNzUtNC45MjUtMTEtMTEtMTFzLTExIDQuOTI1LTExIDExIDQuOTI1IDExIDExIDExIDExLTQuOTI1IDExLTExWiIgZmlsbD0iI0ZFRjBFNyIvPjxwYXRoIGQ9Ik0yMy4wMDEgMTJjMC02LjA3NS00LjkyNS0xMS0xMS0xMXMtMTEgNC45MjUtMTEgMTEgNC45MjUgMTEgMTEgMTEgMTEtNC45MjUgMTEtMTFaIiBzdHJva2U9IiM4MzU0NTkiIHN0cm9rZS13aWR0aD0iMiIvPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTcuMjA3IDcuMjA3YTEgMSAwIDEgMC0xLjQxNC0xLjQxNGwtNCA0LTYgNmEuOTk2Ljk5NiAwIDAgMC0uMDQ5IDEuMzYyLjk5Mi45OTIgMCAwIDAgLjcwOC4zNDRsLjA0OC4wMDFoLjY2N2ExNCAxNCAwIDAgMCA4LjQtMi44bC41MzMtLjRhMSAxIDAgMCAwIC4xMDctMS41MDdMMTMuOTE0IDEwLjVsMy4yOTMtMy4yOTNaTTEyLjUgMTEuOTE0IDkuMDY1IDE1LjM1YTEyLjAwMSAxMi4wMDEgMCAwIDAgNC45MDUtMS45NjRsLTEuNDctMS40N1oiIGZpbGw9IiNGMDhGNTQiLz48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJhIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMCAwaDI0djI0SDB6Ii8+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+);
+#figma_ex_slice_el {
+  filter: invert(0);
+  background-size: 22px 22px;
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIj48cGF0aCBkPSJNMjMuMDAxIDEyYzAtNi4wNzUtNC45MjUtMTEtMTEtMTFzLTExIDQuOTI1LTExIDExIDQuOTI1IDExIDExIDExIDExLTQuOTI1IDExLTExWiIgZmlsbD0iI0ZFRjBFNyIvPjxwYXRoIGQ9Ik0yMy4wMDEgMTJjMC02LjA3NS00LjkyNS0xMS0xMS0xMXMtMTEgNC45MjUtMTEgMTEgNC45MjUgMTEgMTEgMTEgMTEtNC45MjUgMTEtMTFaIiBzdHJva2U9IiM4MzU0NTkiIHN0cm9rZS13aWR0aD0iMiIvPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTcuMjA3IDcuMjA3YTEgMSAwIDEgMC0xLjQxNC0xLjQxNGwtNCA0LTYgNmEuOTk2Ljk5NiAwIDAgMC0uMDQ5IDEuMzYyLjk5Mi45OTIgMCAwIDAgLjcwOC4zNDRsLjA0OC4wMDFoLjY2N2ExNCAxNCAwIDAgMCA4LjQtMi44bC41MzMtLjRhMSAxIDAgMCAwIC4xMDctMS41MDdMMTMuOTE0IDEwLjVsMy4yOTMtMy4yOTNaTTEyLjUgMTEuOTE0IDkuMDY1IDE1LjM1YTEyLjAwMSAxMi4wMDEgMCAwIDAgNC45MDUtMS45NjRsLTEuNDctMS40N1oiIGZpbGw9IiNGMDhGNTQiLz48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJhIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMCAwaDI0djI0SDB6Ii8+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+);
 }
 /*复制框*/
 .FigmaExApp .MiniMenu {
