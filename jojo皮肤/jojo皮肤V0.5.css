@@ -44,7 +44,7 @@ body .FigmaExApp .ExBar {
   top: 48px;
   display: block;
   opacity: 1;
-  z-index: 0;
+  z-index: 4;
   width: 84px;
   height: 100px;
   content: "";
