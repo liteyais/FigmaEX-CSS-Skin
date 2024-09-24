@@ -773,7 +773,7 @@ body .FigmaExApp .ExBar.mini.glass .reseize-hand .dot {
 }
 /*版本号*/
 .FigmaExApp .Settings .tabs-container .tab-box:nth-last-child(5) div:nth-last-child(2):after {
-  content: "茶茶必胜版UI3_V2.2";
+  content: "茶茶皮肤UI3版_V2.3";
   pointer-events: none;
   position: absolute;
   width: auto;
