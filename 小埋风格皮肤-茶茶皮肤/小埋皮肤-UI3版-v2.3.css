@@ -415,6 +415,11 @@ body[data-preferred-theme=dark] .figma-ex-i-button:hover {
   background-size: 20px 20px;
   background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIj48cGF0aCBkPSJNMjMuMDAxIDEyYzAtNi4wNzUtNC45MjUtMTEtMTEtMTFzLTExIDQuOTI1LTExIDExIDQuOTI1IDExIDExIDExIDExLTQuOTI1IDExLTExWiIgZmlsbD0iI0ZFRjBFNyIvPjxwYXRoIGQ9Ik0yMy4wMDEgMTJjMC02LjA3NS00LjkyNS0xMS0xMS0xMXMtMTEgNC45MjUtMTEgMTEgNC45MjUgMTEgMTEgMTEgMTEtNC45MjUgMTEtMTFaIiBzdHJva2U9IiNCQjkwOTUiIHN0cm9rZS13aWR0aD0iMiIvPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTcuMjA3IDcuMjA3YTEgMSAwIDEgMC0xLjQxNC0xLjQxNGwtNCA0LTYgNmEuOTk2Ljk5NiAwIDAgMC0uMDQ5IDEuMzYyLjk5Mi45OTIgMCAwIDAgLjcwOC4zNDRsLjA0OC4wMDFoLjY2N2ExNCAxNCAwIDAgMCA4LjQtMi44bC41MzMtLjRhMSAxIDAgMCAwIC4xMDctMS41MDdMMTMuOTE0IDEwLjVsMy4yOTMtMy4yOTNaTTEyLjUgMTEuOTE0IDkuMDY1IDE1LjM1YTEyLjAwMSAxMi4wMDEgMCAwIDAgNC45MDUtMS45NjRsLTEuNDctMS40N1oiIGZpbGw9IiNGMDhGNTQiLz48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJhIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMCAwaDI0djI0SDB6Ii8+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+);
 }
+/*属性助手*/
+.ex-parent-VarHelp .figma-ex-i-button.ex-key-VarHelp {
+  background-size: 20px 20px;
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIj48cGF0aCBkPSJNMjMgMTJjMC02LjA3NS00LjkyNC0xMS0xMS0xMUM1LjkyNyAxIDEgNS45MjUgMSAxMnM0LjkyNiAxMSAxMSAxMWM2LjA3NiAwIDExLTQuOTI1IDExLTExWiIgZmlsbD0iI0ZFRjBFNyIvPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTIgMkM2LjQ3OSAyIDIgNi40NzcgMiAxMnM0LjQ3OCAxMCAxMCAxMGM1LjUyNCAwIDEwLTQuNDc3IDEwLTEwUzE3LjUyNSAyIDEyIDJaTTAgMTJDMCA1LjM3MyA1LjM3NCAwIDEyIDBjNi42MjggMCAxMiA1LjM3MyAxMiAxMiAwIDYuNjI4LTUuMzcyIDEyLTEyIDEyLTYuNjI3IDAtMTItNS4zNzItMTItMTJaIiBmaWxsPSIjQkI5MDk1Ii8+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik02IDhhMSAxIDAgMCAxIDEtMWgxMGExIDEgMCAxIDEgMCAySDdhMSAxIDAgMCAxLTEtMVptMCA0YTEgMSAwIDAgMSAxLTFoMTBhMSAxIDAgMSAxIDAgMkg3YTEgMSAwIDAgMS0xLTFabTEgM2ExIDEgMCAxIDAgMCAyaDEwYTEgMSAwIDEgMCAwLTJIN1oiIGZpbGw9IiNGMDhGNTQiLz48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJhIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMCAwaDI0djI0SDB6Ii8+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+);
+}
 /*复制框*/
 .FigmaExApp .MiniMenu {
   background: #FEF0E7;
@@ -659,6 +664,44 @@ body[data-preferred-theme=dark] .ExContextPad button:hover {
   border-radius: var(--radius-medium);
 }
 /*===========EX布尔工具面板 结束===============*/
+/*============左右面板紧凑 开始(不需要可以删除)============*/
+/*左侧贴边*/
+[data-fpl-version=ui3] .left_panel_positioner--leftPanelPositioner--8Yehe {
+  top: 0;
+  left: 0;
+  bottom: 0;
+}
+/*去圆角*/
+[data-fpl-version=ui3] .left_panel_container--panel--ILPCV {
+  border-radius: 0;
+}
+/*开标尺去边距*/
+[data-fpl-version=ui3] .left_panel_positioner--leftPanelPositioner--8Yehe.left_panel_positioner--withShowingRulers--xB1lD {
+  top: 21px;
+  left: 21px;
+}
+/*右侧贴边*/
+[data-fpl-version="ui3"] .properties_panel--drillDownContainer--VaNDa {
+  right: 0;
+}
+/*上下距离*/
+.properties_panel--panelPosition--oppQ8.js-fullscreen-prevent-event-capture.properties_panel--withAnimation--ociZy {
+  top: 0;
+  bottom: 0;
+}
+/*去圆角*/
+[data-fpl-version="ui3"] .properties_panel--panelContainer--cKjqh {
+  border-radius: 0;
+}
+/*标尺*/
+[data-fpl-version=ui3] .properties_panel--panelPosition--oppQ8.properties_panel--insetForRulers--rk7or {
+  top: calc(1px + max(20px, var(--editor-banner-height)));
+}
+/*EX间距*/
+[data-fpl-version=ui3] .FigmaExApp .ExBar {
+  margin-right: -12px;
+}
+/*============左右面板紧凑 结束============*/
 /* 【闲时最小化】底部显示 */
 body .FigmaExApp .ExBar.mini:not(.expanded):not(.focus) .reseize-hand {
   display: block;
@@ -723,36 +766,47 @@ body .FigmaExApp .ExBar.mini.glass .reseize-hand .dot {
   width: 100%;
 }
 /*检查更新*/
-.FigmaExApp .Settings .foot-info .ver:before {
-  content: "点击检查EX版本更新";
-  position: absolute;
-  top: -40px;
-  right: 2px;
-  text-align: right;
-  font-size: 11px;
-  pointer-events: none;
-  display: block;
-  height: 23px;
-  border-radius: 4px;
-  box-sizing: border-box;
-  background-repeat: no-repeat;
+.FigmaExApp .Settings .foot-info {
+  width: 160px;
+  padding: 0;
+  left: 0;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  bottom: 24px;
 }
-/*指引箭头*/
-.FigmaExApp .Settings .foot-info .ver:after {
-  content: "";
+.FigmaExApp .Settings .foot-info button {
+  margin-left: 0;
+  padding: 4px 24px;
+}
+.FigmaExApp .Settings .foot-info .ver {
+  padding: 10px 0 36px 0;
+  margin-left: 0;
+  width: 96px;
+  justify-content: center;
+}
+.FigmaExApp .Settings .foot-info .ver:before {
+  content: "检查更新";
   position: absolute;
-  top: -22px;
-  left: 36px;
-  color: #da6141;
-  pointer-events: none;
-  display: block;
-  width: 16px;
-  height: 24px;
+  bottom: 40px;
   box-sizing: border-box;
-  background-repeat: no-repeat;
-  background-size: 16px 24px;
-  background-position: center, center;
-  background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik02LjYxMiAxMC44ODRDNy45NTYgNy4zNjcgMTAuMzM0IDQuMDYzIDE0LjQyOS40NzZhLjc0Ny43NDcgMCAwIDEgMS4wNDMuMDYuNzY1Ljc2NSAwIDAgMS0uMDY1IDEuMDljLTMuOTI0IDMuNDQ5LTYuMTE3IDYuNTQ3LTcuMzUgOS43NzItMS4wOSAyLjg1Mi0xLjQ0NyA1Ljg0OS0xLjUzNCA5LjM2M2wzLjI3My0zLjc4NWEuNzU5Ljc1OSAwIDAgMSAxLjE0OC45OTNsLTQuNDU4IDUuMTU2YTEgMSAwIDAgMS0xLjUxMyAwTC41MTUgMTcuOTY4YS43NTkuNzU5IDAgMSAxIDEuMTQ4LS45OTNsMy4zMTcgMy44MzhjLjA4NS0zLjYyMy40NS02LjgzNSAxLjYzMi05LjkyOFoiIGZpbGw9IiNEQTYxNDEiLz48L3N2Zz4=");
+  background: rgba(143, 143, 184, .15);
+  white-space: nowrap;
+  padding: 4px 24px;
+  height: 32px;
+  border-radius: 4px;
+  display: flex;
+  place-content: center;
+  place-items: center;
+  color: #646491;
+  font-size: 12px;
+}
+body[data-preferred-theme=dark] .FigmaExApp .Settings .foot-info .ver:before {
+  color: rgba(255, 255, 255, .75);
+}
+.FigmaExApp .Settings .foot-info .ver:hover::before {
+  background: rgba(143, 143, 184, .25);
 }
 /*主题标题皮肤图片*/
 .FigmaExApp .Settings .tabs-container .tab-box:nth-last-child(5) div:nth-last-child(2):before {
@@ -773,7 +827,7 @@ body .FigmaExApp .ExBar.mini.glass .reseize-hand .dot {
 }
 /*版本号*/
 .FigmaExApp .Settings .tabs-container .tab-box:nth-last-child(5) div:nth-last-child(2):after {
-  content: "茶茶皮肤UI3版_V2.3";
+  content: "茶茶皮肤-UI3版_V2.3";
   pointer-events: none;
   position: absolute;
   width: auto;
@@ -784,42 +838,4 @@ body .FigmaExApp .ExBar.mini.glass .reseize-hand .dot {
   box-sizing: border-box;
 }
 /*===========EX设置 结束===============*/
-/*============左右面板 开始============*/
-/*左侧贴边*/
-[data-fpl-version=ui3] .left_panel_positioner--leftPanelPositioner--8Yehe {
-  top: 0;
-  left: 0;
-  bottom: 0;
-}
-/*去圆角*/
-[data-fpl-version=ui3] .left_panel_container--panel--ILPCV {
-  border-radius: 0;
-}
-/*开标尺去边距*/
-[data-fpl-version=ui3] .left_panel_positioner--leftPanelPositioner--8Yehe.left_panel_positioner--withShowingRulers--xB1lD {
-  top: 21px;
-  left: 21px;
-}
-/*右侧贴边*/
-[data-fpl-version="ui3"] .properties_panel--drillDownContainer--VaNDa {
-  right: 0;
-}
-/*上下距离*/
-.properties_panel--panelPosition--oppQ8.js-fullscreen-prevent-event-capture.properties_panel--withAnimation--ociZy {
-  top: 0;
-  bottom: 0;
-}
-/*去圆角*/
-[data-fpl-version="ui3"] .properties_panel--panelContainer--cKjqh {
-  border-radius: 0;
-}
-/*标尺*/
-[data-fpl-version=ui3] .properties_panel--panelPosition--oppQ8.properties_panel--insetForRulers--rk7or {
-  top: calc(1px + max(20px, var(--editor-banner-height)));
-}
-/*EX间距*/
-[data-fpl-version=ui3] .FigmaExApp .ExBar {
-  margin-right: -12px;
-}
-/*============左右面板 结束============*/
 /* ====Github地址：https://github.com/liteyais/FigmaEX-CSS-Skin==== */
