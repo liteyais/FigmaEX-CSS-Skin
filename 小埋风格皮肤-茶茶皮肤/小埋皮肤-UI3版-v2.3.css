@@ -367,14 +367,6 @@ body .FigmaExApp .ActionItem:hover .action-info .note-name, body[data-preferred-
 }
 /* =====插件列表 结束===== */
 /* =====字体及字体列表===== */
-/*EX图标和figma图标保持一致*/
-/*
-.figmaex-exui-but, body[data-preferred-theme=dark] .figmaex-exui-but {
-  width: 32px;
-  height: 32px;
-  filter: invert(0) !important;
-}
-*/
 .figmaex-exui-but, .figma-ex-i-button, body[data-preferred-theme=dark] .figmaex-exui-but, body[data-preferred-theme=dark] .figma-ex-i-button {
   filter: invert(0) !important;
   width: 24px;
@@ -560,22 +552,6 @@ body .FigmaExApp .ExBar .action-list::-webkit-scrollbar-thumb:hover, body[data-p
   width: 8px !important;
 }
 /* =====插件滚动条-结束===== */
-/* =====底部拖动-开始===== */
-/*
-
-*/
-/*拖动*/
-/*
-.FigmaExApp .ExBar .reseize-hand .dot, body[data-preferred-theme=dark] .FigmaExApp .ExBar .reseize-hand .dot, .FigmaExApp .ExBar.glass .reseize-hand .dot {
-  background: #5D2D32;
-}
-*/
-/*拖动点经过*/
-/*
-.FigmaExApp .ExBar .reseize-hand:hover .dot, body[data-preferred-theme=dark] .FigmaExApp .ExBar .reseize-hand:hover .dot, .FigmaExApp .ExBar.glass .reseize-hand:hover .dot {
-  background: #E75B87;
-}
-*/
 /* =====底部拖动条 开始===== */
 .FigmaExApp .ExBar .reseize-hand, body[data-preferred-theme=dark] .FigmaExApp .ExBar .reseize-hand {
   height: 30px;
@@ -664,6 +640,8 @@ body[data-preferred-theme=dark] .ExContextPad button:hover {
   border-radius: var(--radius-medium);
 }
 /*===========EX布尔工具面板 结束===============*/
+
+
 /*============左右面板紧凑 开始(不需要可以删除)============*/
 /*左侧贴边*/
 [data-fpl-version=ui3] .left_panel_positioner--leftPanelPositioner--8Yehe {
@@ -672,7 +650,7 @@ body[data-preferred-theme=dark] .ExContextPad button:hover {
   bottom: 0;
 }
 /*去圆角*/
-[data-fpl-version=ui3] .left_panel_container--panel--ILPCV {
+[data-fpl-version=ui3] .left_panel_container--panel--ILPCV,.left_panel_island_container--islandContainer--uM5h6 {
   border-radius: 0;
 }
 /*开标尺去边距*/
@@ -680,28 +658,32 @@ body[data-preferred-theme=dark] .ExContextPad button:hover {
   top: 21px;
   left: 21px;
 }
-/*右侧贴边*/
-[data-fpl-version="ui3"] .properties_panel--drillDownContainer--VaNDa {
-  right: 0;
-}
-/*上下距离*/
-.properties_panel--panelPosition--oppQ8.js-fullscreen-prevent-event-capture.properties_panel--withAnimation--ociZy {
-  top: 0;
-  bottom: 0;
-}
-/*去圆角*/
-[data-fpl-version="ui3"] .properties_panel--panelContainer--cKjqh {
-  border-radius: 0;
-}
-/*标尺*/
-[data-fpl-version=ui3] .properties_panel--panelPosition--oppQ8.properties_panel--insetForRulers--rk7or {
-  top: calc(1px + max(20px, var(--editor-banner-height)));
-}
+
 /*EX间距*/
 [data-fpl-version=ui3] .FigmaExApp .ExBar {
   margin-right: -12px;
 }
+
+/*去圆角*/
+[data-fpl-version="ui3"] .properties_panel--panelContainer--cKjqh {
+  border-radius: 0;
+}
+/*修复右侧面板开启标尺*/
+[data-fpl-version=ui3] .properties_panel--panelPosition--oppQ8.properties_panel--insetForRulers--rk7or {
+    top: calc(max(20px, var(--editor-banner-height)) + 1px);
+}
+/*上下*/
+[data-fpl-version=ui3] .properties_panel--panelPosition--oppQ8 {
+    top: calc(max(0px, var(--editor-banner-height)) + 0px);
+    bottom: 0;
+}
+/*右侧属性边距*/
+[data-fpl-version=ui3] .properties_panel--drillDownContainer--VaNDa {
+    right: 0px;
+}
 /*============左右面板紧凑 结束============*/
+
+
 /* 【闲时最小化】底部显示 */
 body .FigmaExApp .ExBar.mini:not(.expanded):not(.focus) .reseize-hand {
   display: block;
@@ -720,12 +702,6 @@ body .FigmaExApp.compact-ui .ExBar.mini:not(:hover) {
   height: 68px !important;
   min-height: 48px;
 }
-/* 【紧凑】【透明背景】*/
-/*
-body .FigmaExApp.compact-ui .ExBar.glass .reseize-hand .dot {
-  margin-right: 8px;
-}
-*/
 /* 【紧凑】【透明背景】-hover */
 body .FigmaExApp.compact-ui .ExBar.glass .reseize-hand:hover .dot {
   background-image: none;
