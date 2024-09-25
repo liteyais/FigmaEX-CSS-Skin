@@ -1,4 +1,82 @@
 /* ====皮肤Github地址：https://github.com/liteyais/FigmaEX-CSS-Skin==== */
+/*===========EX布尔工具面板 开始===============*/
+/*面板高度投影仿原*/
+.ExContextPad {
+  border-radius: var(--radius-large);
+  bottom: 12px;
+  padding: 8px;
+  box-shadow: var(--elevation-200-canvas);
+  background-color: var(--color-bg);
+  border: none;
+}
+/*图标变黑*/
+.ExContextPad button img {
+  filter: invert(1);
+}
+body[data-preferred-theme=dark] .ExContextPad button img {
+  filter: unset;
+}
+/*经过防原色*/
+.ExContextPad button:hover {
+  border-radius: var(--radius-medium);
+  background-color: rgb(0 0 0 / 4%);
+}
+body[data-preferred-theme=dark] .ExContextPad button:hover {
+  background-color: rgb(56 56 56);
+}
+/*工具位置选项菜单仿原*/
+.AbMenuRoot .oMenuList.shadow {
+  background-color: var(--color-bg-menu);
+  box-shadow: var(--elevation-400-menu-panel);
+  padding: var(--spacer-2);
+  border-radius: var(--radius-large);
+  box-sizing: border-box;
+}
+/*选项圆角*/
+.AbMenuRoot .oMenuList.shadow .oMenuListItem {
+  border-radius: var(--radius-medium);
+}
+/*===========EX布尔工具面板 结束===============*/
+/*============左右面板紧凑 开始(不需要可以删除)============*/
+/*左侧贴边*/
+[data-fpl-version=ui3] .left_panel_positioner--leftPanelPositioner--8Yehe {
+  top: 0;
+  left: 0;
+  bottom: 0;
+}
+/*去圆角*/
+[data-fpl-version=ui3] .left_panel_container--panel--ILPCV,.left_panel_island_container--islandContainer--uM5h6 {
+  border-radius: 0;
+}
+/*开标尺去边距*/
+[data-fpl-version=ui3] .left_panel_positioner--leftPanelPositioner--8Yehe.left_panel_positioner--withShowingRulers--xB1lD {
+  top: 21px;
+  left: 21px;
+}
+/*EX间距*/
+[data-fpl-version=ui3] .FigmaExApp .ExBar {
+  margin-right: -12px;
+}
+
+/*去圆角*/
+[data-fpl-version="ui3"] .properties_panel--panelContainer--cKjqh {
+  border-radius: 0;
+}
+/*修复右侧面板开启标尺*/
+[data-fpl-version=ui3] .properties_panel--panelPosition--oppQ8.properties_panel--insetForRulers--rk7or {
+    top: calc(max(20px, var(--editor-banner-height)) + 1px);
+}
+/*上下*/
+[data-fpl-version=ui3] .properties_panel--panelPosition--oppQ8 {
+    top: calc(max(0px, var(--editor-banner-height)) + 0px);
+    bottom: 0;
+}
+/*右侧属性边距*/
+[data-fpl-version=ui3] .properties_panel--drillDownContainer--VaNDa {
+    right: 0px;
+}
+/*============左右面板紧凑 结束============*/
+
 /*主题ex*/
 body .FigmaExApp .ExBar, body[data-preferred-theme=dark] .FigmaExApp .ExBar {
   background: #FFBB8C !important;
@@ -19,6 +97,7 @@ body .FigmaExApp .ExBar, body[data-preferred-theme=dark] .FigmaExApp .ExBar {
   height: 48px !important;
   left: inherit !important;
   top: inherit !important;
+	background-repeat: no-repeat!important;
   background-color: transparent !important;
   backdrop-filter: none;
   background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjIiIGhlaWdodD0iNDgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTQ4LjY0NSAxLjI2OWM0LjMyNCAwIDUuMjgyIDUuMDQ4IDQuNzUzIDYuODYzYS4xNzIuMTcyIDAgMCAwIC4wMjkuMTU2YzQuODc5IDYuMjQyIDYuNjgxIDE0LjEyNiA2Ljk3MyAxNy4yOTkuMjcgMi42ODEtLjQgMTIuNTYtLjQgMTIuNTZsLTEuODA3LTEuNjAzUzYwIDYgMjguODYzIDkuOTU0Qy0zLjc0MiAxMC44MjIgNy4wNyA0Ni40MyA3LjA3IDQ2LjQzbC0xLjgyNC0uODVhMi41NjYgMi41NjYgMCAwIDEtMS40Ny0xLjkyOGMtLjY3NC00LjMxNi0yLjQzNS0xOC4wMjQuNzI0LTI2Ljc1MWwtMS43NTctMS43MzdjLS41ODYtLjg2OS0xLjA1NC0zLjEyNyAxLjc1Ny01LjIxMSAyLjgxMi0yLjA4NSA1LjI3Mi0uMjkgNi4xNS44NjhDMjUuNTg4LTEuMzM3IDQxLjk1IDMuMDA2IDQzLjcwNyAzLjg3NGMxLjMxMy42NDkgMi4yMTcuMzM5IDIuNTcuMDU5YS4xNTYuMTU2IDAgMCAwIC4wNS0uMTQ4Yy0uMjU3LTEuNjc4IDEuNDU1LTIuNTE2IDIuMzE5LTIuNTE2WiIgZmlsbD0iI0ZGQkI4QyIvPjxwYXRoIGQ9Ik00OC42NDQgMS4yNjl2MS0xWm0tNC45MzggMi42MDUtLjQ0My44OTcuNDQzLS44OTdaTTExIDExbC0uNzk3LjYwNGExIDEgMCAwIDAgMS40MjguMTcxTDExIDExWm0tNy41IDQtLjgzLjU2LjAzLjA0LjgtLjZaTTUgMTdsLjkwNi40MjNBMSAxIDAgMCAwIDUuOCAxNi40TDUgMTdaTTQgNDVoMWExIDEgMCAwIDAtLjAyNS0uMjI0TDQgNDVabTU2LjQtMTkuNDEzLS45OTYuMDkxLjAwNi4wNzIuMDE3LjA3Ljk3Mi0uMjMzWk01OSAzOWExIDEgMCAxIDAgMiAwaC0yWk0zIDQ2YTEgMSAwIDEgMCAyIDBIM1pNNDYuMzI3IDMuNzg1bC0uOTg5LjE1Mi45ODktLjE1MlptLS4wNTIuMTQ4LjYyMi43ODMtLjYyMi0uNzgzWm03LjEyMiA0LjItLjk2LS4yOC45Ni4yOFptLjAzLjE1NS43ODgtLjYxNi0uNzg4LjYxNlptLjkzLjEyNGMuMTgyLS42MjEuMjE1LTEuNDIuMTIzLTIuMjMxYTguMjMgOC4yMyAwIDAgMC0uNzM3LTIuNTk0QzUyLjkxIDEuODUyIDUxLjI5LjI3IDQ4LjY0NC4yN3YyYzEuNjc4IDAgMi43Ljk0IDMuMjk1IDIuMTgzLjMwMy42MzIuNDgyIDEuMzIzLjU1NCAxLjk1NS4wNzMuNjQ2LjAyOCAxLjE2LS4wNTYgMS40NDVsMS45Mi41NlpNNDguNjQ0LjI3Yy0uNjg0IDAtMS41NS4zMDQtMi4yMTkuODYtLjcxLjU5Mi0xLjI4IDEuNTUtMS4wODcgMi44MDhsMS45NzctLjMwNGMtLjA2NC0uNDE5LjA5My0uNzIuMzktLjk2Ny4zMzktLjI4Mi43Ni0uMzk3Ljk0LS4zOTd2LTJabS0yLjk5IDIuODhzLS4wMy4wMjMtLjA5Ny4wNDhhMSAxIDAgMCAxLS4yNzkuMDU3Yy0uMjM4LjAxNy0uNjE1LS4wMjItMS4xMjktLjI3NmwtLjg4NiAxLjc5M2MxLjYxLjc5NiAyLjkzOC40OTcgMy42MzQtLjA1NUw0NS42NTQgMy4xNVptLTEuNTA1LS4xNzFjLS41NzQtLjI4NC0yLjAyLS43MjYtNC4wMzQtMS4wNTRhMzUuOTM0IDM1LjkzNCAwIDAgMC03Ljg4LS4zN2MtNi4yNi4zOC0xNC4yMDkgMi40MzYtMjEuODY3IDguNjdsMS4yNjMgMS41NTFDMTguOTA5IDUuODUxIDI2LjQzNiAzLjkxIDMyLjM1NiAzLjU1YzIuOTYzLS4xOCA1LjUyMS4wMzYgNy40MzguMzQ4IDEuOTUuMzE4IDMuMTY0LjcyMiAzLjQ2OS44NzNsLjg4Ni0xLjc5M1ptLTMyLjM1MyA3LjQxOGMtLjUxNi0uNjgyLTEuNTE1LTEuNjQ5LTIuODM3LTIuMTUyLTEuMzg2LS41MjctMy4wOTEtLjUyNC00Ljc5OC43NDJsMS4xOTEgMS42MDZjMS4xMDUtLjgxOSAyLjA4Mi0uNzg4IDIuODk1LS40NzkuODc3LjMzNCAxLjU5NCAxLjAxNSAxLjk1NiAxLjQ5MWwxLjU5My0xLjIwOFptLTcuNjM1LTEuNDFjLTEuNjEgMS4xOTMtMi4yNTYgMi41NDMtMi4zMDYgMy44MjYtLjA0NyAxLjIyNC40NTcgMi4yMTUuODE2IDIuNzQ3bDEuNjU4LTEuMTE4Yy0uMjI3LS4zMzctLjUtLjkwOS0uNDc1LTEuNTUyLjAyMi0uNTg1LjI5Ny0xLjQwNiAxLjQ5OC0yLjI5N2wtMS4xOS0xLjYwNlpNMi43IDE1LjZsMS41IDIgMS42LTEuMi0xLjUtMi0xLjYgMS4yWm0xLjM5NC45NzdjLTEuODU0IDMuOTctNC42MzIgMTMuMTUtMS4wNjkgMjguNjQ3bDEuOTUtLjQ0OGMtMy40NjYtMTUuMDc0LS43My0yMy43OTcuOTMxLTI3LjM1M2wtMS44MTItLjg0NlptNTcuMzAxIDguOTE4Yy0uMzAzLTMuMy0yLjE1LTExLjM4Ny03LjE4LTE3LjgyM2wtMS41NzYgMS4yMzJjNC43MjcgNi4wNDggNi40ODUgMTMuNzMgNi43NjQgMTYuNzc0bDEuOTkyLS4xODNaTTYxIDM5YzAtMS41NTIuMjktMy45NzIuNDk2LTYuNTg1LjE5OC0yLjUxLjMxOC01LjIyLS4xMjQtNy4wNjJsLTEuOTQ1LjQ2N2MuMzU2IDEuNDgyLjI3NyAzLjg3NC4wNzUgNi40MzhDNTkuMzEgMzQuNzIgNTkgMzcuMzQ1IDU5IDM5aDJaTTMgNDV2MWgydi0xSDNaTTQ1LjMzOCAzLjkzN2EuODQ1Ljg0NSAwIDAgMSAuMzE2LS43ODhsMS4yNDMgMS41NjdjLjM4OS0uMzA4LjQ2OC0uNzYxLjQxOC0xLjA4M2wtMS45NzcuMzA0Wm03LjEgMy45MTVjLS4xMDUuMzU3LS4wMzYuNzQ5LjIgMS4wNTJsMS41NzctMS4yMzJhLjgyOC44MjggMCAwIDEgLjE0Mi43NGwtMS45Mi0uNTZaIiBmaWxsPSIjNUQyRDMyIi8+PHBhdGggZD0ibTcuMjMzIDE1LjM0IDEuOTgzLTIuMjY0Yy0uNDc1LTEuNDY5LS45NTEtMi45MzYtMi45MzMtLjY3Mi0xLjU4NiAxLjgxLS4wMjcgMi43MTEuOTUgMi45MzVaTTQ5Ljc2OSA3Ljg2OGwtMi4yMDUtMi4zNzVjLjQ4Ni0xLjUwMy45NzQtMy4wMDYgMy4xNzgtLjYzMSAxLjc2NCAxLjkuMDg2IDIuNzk2LS45NzMgMy4wMDZaIiBmaWxsPSIjRkZGOEY2Ii8+PHBhdGggZD0iTTI3LjkxNCA1Ljc0N2MuMjMzLS4xNjYuNTY4LS4zNjEuOTY4LS41MzJtMy40NTItLjA0N2EzLjAwOCAzLjAwOCAwIDAgMC0uNzI4LS4yOCIgc3Ryb2tlPSIjNTYyMTJFIiBzdHJva2Utd2lkdGg9IjEuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PGNpcmNsZSBjeD0iMzAuMjE2IiBjeT0iNC44MzUiIHRyYW5zZm9ybT0icm90YXRlKC03LjQ1OCAzMC4yMTYgNC44MzUpIiBmaWxsPSIjRkZDMkI0IiByPSIxLjIiLz48cGF0aCBkPSJNMjcuNDcyIDkuODU2Yy42MDYuNTQ1IDEuNzMzLjQ1NyAyLjUxNy0uNDE0Ljc4NS0uODcuNzU1LTIuMDAyLjE1LTIuNTQ3LS42MDYtLjU0NS0xLjczNC0uNDU3LTIuNTE4LjQxNC0uNzg0Ljg3LS43NTUgMi4wMDItLjE0OSAyLjU0N1oiIGZpbGw9IiNmZmYiIHN0cm9rZT0iIzVEMkQzMiIgc3Ryb2tlLXdpZHRoPSIuOCIvPjxwYXRoIGQ9Ik0zNC4yMTUgOC45NzRjLS40NDUuNjgzLTEuNTU4Ljg4Ny0yLjU0LjI0OC0uOTgxLS42NC0xLjI0NC0xLjc0LS44LTIuNDIzLjQ0Ni0uNjgzIDEuNTU4LS44ODcgMi41NC0uMjQ4Ljk4Mi42NCAxLjI0NSAxLjc0LjggMi40MjNaIiBmaWxsPSIjZmZmIiBzdHJva2U9IiM1RDJEMzIiIHN0cm9rZS13aWR0aD0iLjgiLz48L3N2Zz4=") !important;
@@ -602,87 +681,6 @@ body .FigmaExApp .ExBar.mini.glass .reseize-hand .dot {
   user-select: text;
 }
 /*===========额外功能-文字选择框可拖动选择 结束===============*/
-/*===========EX布尔工具面板 开始===============*/
-/*面板高度投影仿原*/
-.ExContextPad {
-  border-radius: var(--radius-large);
-  bottom: 12px;
-  padding: 8px;
-  box-shadow: var(--elevation-200-canvas);
-  background-color: var(--color-bg);
-  border: none;
-}
-/*图标变黑*/
-.ExContextPad button img {
-  filter: invert(1);
-}
-body[data-preferred-theme=dark] .ExContextPad button img {
-  filter: unset;
-}
-/*经过防原色*/
-.ExContextPad button:hover {
-  border-radius: var(--radius-medium);
-  background-color: rgb(0 0 0 / 4%);
-}
-body[data-preferred-theme=dark] .ExContextPad button:hover {
-  background-color: rgb(56 56 56);
-}
-/*工具位置选项菜单仿原*/
-.AbMenuRoot .oMenuList.shadow {
-  background-color: var(--color-bg-menu);
-  box-shadow: var(--elevation-400-menu-panel);
-  padding: var(--spacer-2);
-  border-radius: var(--radius-large);
-  box-sizing: border-box;
-}
-/*选项圆角*/
-.AbMenuRoot .oMenuList.shadow .oMenuListItem {
-  border-radius: var(--radius-medium);
-}
-/*===========EX布尔工具面板 结束===============*/
-
-
-/*============左右面板紧凑 开始(不需要可以删除)============*/
-/*左侧贴边*/
-[data-fpl-version=ui3] .left_panel_positioner--leftPanelPositioner--8Yehe {
-  top: 0;
-  left: 0;
-  bottom: 0;
-}
-/*去圆角*/
-[data-fpl-version=ui3] .left_panel_container--panel--ILPCV,.left_panel_island_container--islandContainer--uM5h6 {
-  border-radius: 0;
-}
-/*开标尺去边距*/
-[data-fpl-version=ui3] .left_panel_positioner--leftPanelPositioner--8Yehe.left_panel_positioner--withShowingRulers--xB1lD {
-  top: 21px;
-  left: 21px;
-}
-
-/*EX间距*/
-[data-fpl-version=ui3] .FigmaExApp .ExBar {
-  margin-right: -12px;
-}
-
-/*去圆角*/
-[data-fpl-version="ui3"] .properties_panel--panelContainer--cKjqh {
-  border-radius: 0;
-}
-/*修复右侧面板开启标尺*/
-[data-fpl-version=ui3] .properties_panel--panelPosition--oppQ8.properties_panel--insetForRulers--rk7or {
-    top: calc(max(20px, var(--editor-banner-height)) + 1px);
-}
-/*上下*/
-[data-fpl-version=ui3] .properties_panel--panelPosition--oppQ8 {
-    top: calc(max(0px, var(--editor-banner-height)) + 0px);
-    bottom: 0;
-}
-/*右侧属性边距*/
-[data-fpl-version=ui3] .properties_panel--drillDownContainer--VaNDa {
-    right: 0px;
-}
-/*============左右面板紧凑 结束============*/
-
 
 /* 【闲时最小化】底部显示 */
 body .FigmaExApp .ExBar.mini:not(.expanded):not(.focus) .reseize-hand {
