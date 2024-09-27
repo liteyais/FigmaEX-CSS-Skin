@@ -64,7 +64,7 @@
 </div><br /><br />
 
 ## 支持
-如果您也喜欢，不妨支持一下！我熬夜给你做新的！
-<img width="250px"  src="https://github.com/user-attachments/assets/3985c754-e540-458f-8767-d8e28bc6dff8"/>
+如果您也喜欢，不妨支持一下！我熬夜给你做新的！<br /><br />
+<img width="540px"  src="https://github.com/user-attachments/assets/e4a318b3-00da-4c8a-a1aa-b9e5e03d0cac"/>
 </div><br /><br />
 
