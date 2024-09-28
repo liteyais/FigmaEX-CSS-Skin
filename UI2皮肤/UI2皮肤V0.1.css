@@ -1,0 +1,181 @@
+/*============紧凑面板============*/
+/*============左右面板紧凑 开始(不需要可以删除)============*/
+/*左侧贴边*/
+[data-fpl-version=ui3] .left_panel_positioner--leftPanelPositioner--8Yehe {
+  top: 0;
+  left: 0;
+  bottom: 0;
+}
+/*去圆角*/
+[data-fpl-version=ui3] .left_panel_container--panel--ILPCV,.left_panel_island_container--islandContainer--uM5h6 {
+  border-radius: 0;
+}
+/*开标尺去边距*/
+[data-fpl-version=ui3] .left_panel_positioner--leftPanelPositioner--8Yehe.left_panel_positioner--withShowingRulers--xB1lD {
+  top: 21px;
+  left: 21px;
+}
+
+/*EX间距*/
+[data-fpl-version=ui3] .FigmaExApp .ExBar {
+  margin-right: -12px;
+}
+
+/*去圆角*/
+[data-fpl-version="ui3"] .properties_panel--panelContainer--cKjqh {
+  border-radius: 0;
+}
+/*修复右侧面板开启标尺*/
+[data-fpl-version=ui3] .properties_panel--panelPosition--oppQ8.properties_panel--insetForRulers--rk7or {
+    top: calc(max(20px, var(--editor-banner-height)) + 1px);
+}
+/*上下*/
+[data-fpl-version=ui3] .properties_panel--panelPosition--oppQ8 {
+    top: calc(max(0px, var(--editor-banner-height)) + 0px);
+    bottom: 0;
+}
+/*右侧属性边距*/
+[data-fpl-version=ui3] .properties_panel--drillDownContainer--VaNDa {
+    right: 0px;
+}
+/*============左右面板紧凑 结束============*/
+/*===========额外功能-文字选择框可拖动选择 开始 ===============*/
+
+span.select--inputText--I3JIv.select--inputTextWrapper--kEwIr.select--inputTextTruncated--j6p-H.ellipsis--ellipsis--Tjyfa{
+	user-select: text;
+}
+p.font_picker--fontPreviewFallback--HkbbT.ellipsis--ellipsis--Tjyfa.text--fontPos15--IR8IB.text--_fontBase--QdLsd {
+	user-select: text;
+}
+/*===========额外功能-文字选择框可拖动选择 结束===============*/
+/*===========EX布尔工具面板 开始===============*/
+/*面板高度投影仿原*/
+.ExContextPad {
+  border-radius: var(--radius-large);
+  bottom: 12px;
+  padding: 8px;
+  box-shadow: var(--elevation-200-canvas);
+  background-color: var(--color-bg);
+  border: none;
+}
+/*图标变黑*/
+.ExContextPad button img {
+  filter: invert(1);
+}
+body[data-preferred-theme=dark] .ExContextPad button img {
+  filter: unset;
+}
+/*经过防原色*/
+.ExContextPad button:hover {
+  border-radius: var(--radius-medium);
+  background-color: rgb(0 0 0 / 4%);
+}
+body[data-preferred-theme=dark] .ExContextPad button:hover {
+  background-color: rgb(56 56 56);
+}
+/*工具位置选项菜单仿原*/
+.AbMenuRoot .oMenuList.shadow {
+  background-color: var(--color-bg-menu);
+  box-shadow: var(--elevation-400-menu-panel);
+  padding: var(--spacer-2);
+  border-radius: var(--radius-large);
+  box-sizing: border-box;
+}
+/*选项圆角*/
+.AbMenuRoot .oMenuList.shadow .oMenuListItem {
+  border-radius: var(--radius-medium);
+}
+/*===========EX布尔工具面板 结束===============*/
+/*===========EX设置 开始===============*/
+/*紧凑设置弹框*/
+.FigmaExApp .Settings .tab-box .set-item {
+  min-height: 28px;
+}
+/*设置框半适应*/
+.FigmaExApp .Settings {
+  min-height: 540px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -310px;
+  margin-top: -400px;
+}
+/*css框颜色*/
+.FigmaExApp .Settings .tabs-container .tab-box .set-item textarea {
+  height: 98px;
+}
+/*指南换色*/
+.FigmaExApp .Settings .notes, body[data-preferred-theme=dark] .FigmaExApp .Settings .notes {
+  margin-bottom: 4px;
+  position: relative;
+  width: 100%;
+}
+/*检查更新*/
+.FigmaExApp .Settings .foot-info {
+  width: 160px;
+  padding: 0;
+  left: 0;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  bottom: 24px;
+}
+.FigmaExApp .Settings .foot-info button {
+  margin-left: 0;
+  padding: 4px 24px;
+}
+.FigmaExApp .Settings .foot-info .ver {
+  padding: 10px 0 36px 0;
+  margin-left: 0;
+  width: 96px;
+  justify-content: center;
+}
+.FigmaExApp .Settings .foot-info .ver:before {
+  content: "检查更新";
+  position: absolute;
+  bottom: 40px;
+  box-sizing: border-box;
+  background: rgba(143, 143, 184, .15);
+  white-space: nowrap;
+  padding: 4px 24px;
+  height: 32px;
+  border-radius: 4px;
+  display: flex;
+  place-content: center;
+  place-items: center;
+  color: #646491;
+  font-size: 12px;
+}
+body[data-preferred-theme=dark] .FigmaExApp .Settings .foot-info .ver:before {
+  color: rgba(255, 255, 255, .75);
+}
+.FigmaExApp .Settings .foot-info .ver:hover::before {
+  background: rgba(143, 143, 184, .25);
+}
+/*主题标题皮肤图片*/
+.FigmaExApp .Settings .tabs-container .tab-box:nth-last-child(5) div:nth-last-child(2):before {
+  content: "";
+  position: absolute;
+  top: -30px;
+  pointer-events: none;
+  display: block;
+  width: 100%;
+  height: 50px;
+  margin-bottom: -18px;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+/*版本号*/
+.FigmaExApp .Settings .tabs-container .tab-box:nth-last-child(5) div:nth-last-child(2):after {
+  content: "UI2皮肤V0.1";
+  pointer-events: none;
+  position: absolute;
+  width: auto;
+/*  color: #da6141;*/
+  font-size: 12px;
+  right: 13px;
+  top: 2px;
+  box-sizing: border-box;
+}
+/*===========EX设置 结束===============*/
