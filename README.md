@@ -37,9 +37,9 @@
 <img width="160px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/80985005-accb-4c18-bfac-d71ee44745c6"/>
 </div><br /><br />
 
-## 四、【未适配新版，待更新】jojo风格皮肤（适用于Figma浅色+深色模式）
+## 四、【已更新适配UI3】jojo风格皮肤（适用于Figma浅色+深色模式）
 **1、介绍：** 包含内容：替身欧拉，支持深色模式<br />
-**2、地址：**[JOJO皮肤v0.5](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/jojo%E7%9A%AE%E8%82%A4/jojo%E7%9A%AE%E8%82%A4V0.5.css) <br />
+**2、地址：**[JOJO皮肤v0.6](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/jojo%E7%9A%AE%E8%82%A4/jojo%E7%9A%AE%E8%82%A4V0.6.css) <br />
 **3、更新：**[更新记录](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/jojo%E7%9A%AE%E8%82%A4/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.md) <br /><br />
 <div align="left">
 <img width="540px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/0b551f88-5771-4d81-ad66-01f37b491fc5"/>
