@@ -9,6 +9,13 @@
 
 # 皮肤列表
 
+## 零、【UI2风格】适用于FigmaUI3浅色+深色模式<br />
+**包含内容：①去两边宽度②优化上下文、弹框仿原生③优化EX位置④系统文字名称可复制⑤增加ex检查更新按钮**<br /><br />
+**2、地址：**[UI2皮肤V0.1](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/UI2%E7%9A%AE%E8%82%A4/UI2%E7%9A%AE%E8%82%A4V0.1.css) <br />
+<div align="left">
+<img width="540px"   src="https://github.com/user-attachments/assets/a68a435e-4e36-45b9-9f80-5a4cf7d14504"/>
+</div><br /><br />
+
 ## 一、小埋风格皮肤（适用于FigmaUI3浅色+深色模式）<br />
 **板式一、皮肤名称：【茶茶皮肤】**<br /><br />
 **1、介绍：** 包含内容：适配最新EX，功能包含：字体面板、动效，及支持深色模式<br />
