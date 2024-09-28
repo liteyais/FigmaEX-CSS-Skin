@@ -677,8 +677,12 @@ body .FigmaExApp .ExBar.mini.glass .reseize-hand .dot {
 }
 /* =====底部拖动-结束===== */
 /*===========额外功能-文字选择框可拖动选择 开始 ===============*/
-.type_panel--fontPickerTextStyle--0zZLd {
-  user-select: text;
+
+span.select--inputText--I3JIv.select--inputTextWrapper--kEwIr.select--inputTextTruncated--j6p-H.ellipsis--ellipsis--Tjyfa{
+	user-select: text;
+}
+p.font_picker--fontPreviewFallback--HkbbT.ellipsis--ellipsis--Tjyfa.text--fontPos15--IR8IB.text--_fontBase--QdLsd {
+	user-select: text;
 }
 /*===========额外功能-文字选择框可拖动选择 结束===============*/
 
