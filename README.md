@@ -10,6 +10,7 @@
 # 皮肤列表
 
 ## 一、小埋风格皮肤（2025-09-29更新）<br />
+
 **板式一、皮肤名称：【茶茶皮肤】**<br /><br />
 **1、介绍：** 包含内容：适配最新EX，功能包含：字体面板、动效，及支持深色模式<br />
 **2、地址：**[茶茶皮肤-UI3-v2.5](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E5%B0%8F%E5%9F%8B%E7%9A%AE%E8%82%A4-UI3%E7%89%88-v2.5.css) <br />
@@ -38,7 +39,7 @@
 <img width="160px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/80985005-accb-4c18-bfac-d71ee44745c6"/>
 </div><br /><br />
 
-## 四、【已更新适配UI3】jojo风格皮肤（适用于Figma浅色+深色模式）
+## 四、【待更新】jojo风格皮肤（适用于Figma浅色+深色模式）
 **1、介绍：** 包含内容：替身欧拉，支持深色模式<br />
 **2、地址：**[JOJO皮肤v0.9](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/jojo%E7%9A%AE%E8%82%A4/jojo%E7%9A%AE%E8%82%A4V0.9.css) <br />
 **3、更新：**[更新记录](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/jojo%E7%9A%AE%E8%82%A4/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.md) <br /><br />
