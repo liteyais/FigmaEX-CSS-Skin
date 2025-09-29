@@ -9,7 +9,7 @@
 
 # 皮肤列表
 
-## 一、小埋风格皮肤（适用于FigmaUI3浅色+深色模式）<br />
+## 一、小埋风格皮肤（2025-09-29更新）<br />
 **板式一、皮肤名称：【茶茶皮肤】**<br /><br />
 **1、介绍：** 包含内容：适配最新EX，功能包含：字体面板、动效，及支持深色模式<br />
 **2、地址：**[茶茶皮肤-UI3-v2.5](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4/%E5%B0%8F%E5%9F%8B%E7%9A%AE%E8%82%A4-UI3%E7%89%88-v2.5.css) <br />
@@ -20,7 +20,7 @@
 <img width="240px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/2ba860c5-2c82-40f7-a602-88e13438fa51"/><br />
 </div><br /><br />
 
-## 二、【已更新适配UI3】马里奥风格皮肤（适用于Figma浅色+深色模式）
+## 二、马里奥风格皮肤（2025-09-29更新）
 **1、介绍：** 包含内容：EX皮肤,及支持深色模式<br />
 **2、地址：**[马里奥皮肤v1.9](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E9%A9%AC%E9%87%8C%E5%A5%A5%E7%9A%AE%E8%82%A4/%E9%A9%AC%E9%87%8C%E5%A5%A51.9.css) <br />
 **3、更新：**[更新记录](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E9%A9%AC%E9%87%8C%E5%A5%A5%E7%9A%AE%E8%82%A4/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.md) <br /><br />
@@ -29,9 +29,9 @@
 <img width="144px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/58e9a5b2-0a5d-4721-b026-cd3bc33ec6e5"/>
 </div><br /><br />
 
-## 三、【未适配新版，待更新】吾皇巴扎黑皮肤（适用于Figma浅色+深色模式）
+## 三、吾皇巴扎黑皮肤（2025-09-29更新）
 **1、介绍：** 包含内容：文字选择复制图标，插件搜索跳转按钮等，支持深色模式<br />
-**2、地址：**[吾皇皮肤v0.2](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%90%BE%E7%9A%87%E5%B7%B4%E6%89%8E%E9%BB%91%E7%9A%AE%E8%82%A4/%E5%90%BE%E7%9A%87%E7%9A%AE%E8%82%A4V0.2.css) <br />
+**2、地址：**[吾皇皮肤v0.4](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%90%BE%E7%9A%87%E5%B7%B4%E6%89%8E%E9%BB%91%E7%9A%AE%E8%82%A4/%E5%90%BE%E7%9A%87%E7%9A%AE%E8%82%A4V0.4.css) <br />
 **3、更新：**[更新记录](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%90%BE%E7%9A%87%E5%B7%B4%E6%89%8E%E9%BB%91%E7%9A%AE%E8%82%A4/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.md) <br /><br />
 <div align="left">
 <img width="540px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/b8a44779-9d19-49ca-8b10-b5f4a1d9f396"/>
