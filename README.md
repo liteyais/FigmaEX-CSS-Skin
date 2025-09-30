@@ -20,7 +20,7 @@
 </div><br /><br />
 
 ## 二、马里奥风格皮肤（2025-09-29更新）
-**1、介绍：** EX皮肤,动效，布尔面板优化、及支持深色模式<br />
+**1、介绍：** 动效，布尔面板优化、及支持深色模式<br />
 **2、地址：**[马里奥皮肤v2.0](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E9%A9%AC%E9%87%8C%E5%A5%A5%E7%9A%AE%E8%82%A4/%E9%A9%AC%E9%87%8C%E5%A5%A5V2.0.css) <br />
 **3、更新：**[更新记录](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E9%A9%AC%E9%87%8C%E5%A5%A5%E7%9A%AE%E8%82%A4/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.md) <br /><br />
 <div align="left">
@@ -29,8 +29,8 @@
 </div><br /><br />
 
 ## 三、吾皇巴扎黑皮肤（2025-09-29更新）
-**1、介绍：** 包含内容：文字选择复制图标，插件搜索跳转按钮等，支持深色模式<br />
-**2、地址：**[吾皇皮肤v0.4](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%90%BE%E7%9A%87%E5%B7%B4%E6%89%8E%E9%BB%91%E7%9A%AE%E8%82%A4/%E5%90%BE%E7%9A%87%E7%9A%AE%E8%82%A4V0.4.css) <br />
+**1、介绍：** 动效，布尔面板优化、及支持深色模式<br />
+**2、地址：**[吾皇皮肤v0.5](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%90%BE%E7%9A%87%E5%B7%B4%E6%89%8E%E9%BB%91%E7%9A%AE%E8%82%A4/%E5%90%BE%E7%9A%87%E7%9A%AE%E8%82%A4V0.5.css) <br />
 **3、更新：**[更新记录](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%90%BE%E7%9A%87%E5%B7%B4%E6%89%8E%E9%BB%91%E7%9A%AE%E8%82%A4/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.md) <br /><br />
 <div align="left">
 <img width="540px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/b8a44779-9d19-49ca-8b10-b5f4a1d9f396"/>
