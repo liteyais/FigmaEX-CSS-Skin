@@ -16,7 +16,6 @@
 
 <div align="left">
 <img width="610px"   src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/9c1c56fb-ad5e-4f21-90cd-da1592c3a21d"/>
-<img width="240px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/2ba860c5-2c82-40f7-a602-88e13438fa51"/><br />
 </div><br /><br />
 
 ## 二、马里奥风格皮肤（2025-09-29更新）
@@ -25,7 +24,6 @@
 **3、更新：**[更新记录](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E9%A9%AC%E9%87%8C%E5%A5%A5%E7%9A%AE%E8%82%A4/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.md) <br /><br />
 <div align="left">
 <img width="624px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/fd8f1cbc-0180-4585-8fde-d18a801eed69"/>
-<img width="144px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/58e9a5b2-0a5d-4721-b026-cd3bc33ec6e5"/>
 </div><br /><br />
 
 ## 三、吾皇巴扎黑皮肤（2025-09-29更新）
@@ -34,7 +32,6 @@
 **3、更新：**[更新记录](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%90%BE%E7%9A%87%E5%B7%B4%E6%89%8E%E9%BB%91%E7%9A%AE%E8%82%A4/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.md) <br /><br />
 <div align="left">
 <img width="540px"  src="https://github.com/user-attachments/assets/56fcc941-d604-4007-8f29-05e29b396d96"/>
-<img width="160px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/80985005-accb-4c18-bfac-d71ee44745c6"/>
 </div><br /><br />
 
 
@@ -44,7 +41,6 @@
 **3、更新：**[更新记录](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/jojo%E7%9A%AE%E8%82%A4/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.md) <br /><br />
 <div align="left">
 <img width="540px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/0b551f88-5771-4d81-ad66-01f37b491fc5"/>
-<img width="160px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/815cb9ff-3ac7-4136-886d-b3a43d8d203d"/>
 </div><br /><br />
 
 
