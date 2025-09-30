@@ -33,9 +33,10 @@
 **2、地址：**[吾皇皮肤v0.5](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%90%BE%E7%9A%87%E5%B7%B4%E6%89%8E%E9%BB%91%E7%9A%AE%E8%82%A4/%E5%90%BE%E7%9A%87%E7%9A%AE%E8%82%A4V0.5.css) <br />
 **3、更新：**[更新记录](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%90%BE%E7%9A%87%E5%B7%B4%E6%89%8E%E9%BB%91%E7%9A%AE%E8%82%A4/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.md) <br /><br />
 <div align="left">
-<img width="540px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/b8a44779-9d19-49ca-8b10-b5f4a1d9f396"/>
+<img width="540px"  src="https://github.com/user-attachments/assets/56fcc941-d604-4007-8f29-05e29b396d96"/>
 <img width="160px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/80985005-accb-4c18-bfac-d71ee44745c6"/>
 </div><br /><br />
+
 
 ## 四、【待更新】jojo风格皮肤（适用于Figma浅色+深色模式）
 **1、介绍：** 包含内容：替身欧拉，支持深色模式<br />
