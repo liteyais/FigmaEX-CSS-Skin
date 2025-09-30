@@ -1,7 +1,7 @@
 /* 皮肤Github地址 */
 /*【https://github.com/liteyais/FigmaEX-CSS-Skin】 */
 /*主题ex*/
-body .FigmaExApp .ExBar, body[data-preferred-theme=dark] .FigmaExApp .ExBar { /*, body[data-preferred-theme=dark] .FigmaExApp .ExBar*/
+[data-fpl-version=ui3]  .FigmaExApp .ExBar, body[data-preferred-theme=dark] .FigmaExApp .ExBar { 
   box-sizing: border-box;
   right: 256px;
   top: 13px;
