@@ -10,7 +10,7 @@
 # 皮肤列表
 
 ## 一、小埋风格皮肤（2025-09-29更新）<br />
-**1、介绍：**字体面板皮肤、趣味动效，布尔面板优化、深色模式支持<br />
+**1、介绍：**[字体面板皮肤]、[趣味动效]，[布尔面板优化]、[深色模式支持]<br />
 **2、地址：**[茶茶皮肤-UI3-v2.5](https://github.com/liteyais/FigmaEX-CSS-Skin/tree/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4) <br />
 
 <div align="left">
@@ -18,7 +18,7 @@
 </div><br /><br />
 
 ## 二、马里奥风格皮肤（2025-09-30更新）
-**1、介绍：** 趣味动效，布尔面板优化、深色模式支持<br />
+**1、介绍：** [趣味动效]、[布尔面板优化]、[深色模式支持]<br />
 **2、地址：**[马里奥皮肤v2.0](https://github.com/liteyais/FigmaEX-CSS-Skin/tree/main/%E9%A9%AC%E9%87%8C%E5%A5%A5%E7%9A%AE%E8%82%A4) <br />
 
 <div align="left">
@@ -28,7 +28,7 @@
 
 
 ## 三、吾皇巴扎黑皮肤（2025-09-30更新）
-**1、介绍：** 趣味动效，布尔面板优化、深色模式支持<br />
+**1、介绍：** [趣味动效]、[布尔面板优化]、[深色模式支持]<br />
 **2、地址：**[吾皇皮肤v0.5](https://github.com/liteyais/FigmaEX-CSS-Skin/tree/main/%E5%90%BE%E7%9A%87%E5%B7%B4%E6%89%8E%E9%BB%91%E7%9A%AE%E8%82%A4) <br />
 
 <div align="left">
@@ -37,7 +37,7 @@
 
 
 ## 四、【未适配待更新】jojo风格皮肤（适用于Figma浅色+深色模式）
-**1、介绍：** 包含内容：替身欧拉，支持深色模式<br />
+**1、介绍：** [趣味动效]、[布尔面板优化]、[深色模式支持]<br />
 **2、地址：**[JOJO皮肤v0.9](https://github.com/liteyais/FigmaEX-CSS-Skin/tree/main/jojo%E7%9A%AE%E8%82%A4) <br />
 
 <div align="left">
