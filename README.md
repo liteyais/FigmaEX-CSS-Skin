@@ -14,7 +14,7 @@
 **2、地址：**[茶茶皮肤-UI3-v2.5](https://github.com/liteyais/FigmaEX-CSS-Skin/tree/main/%E5%B0%8F%E5%9F%8B%E9%A3%8E%E6%A0%BC%E7%9A%AE%E8%82%A4-%E8%8C%B6%E8%8C%B6%E7%9A%AE%E8%82%A4) <br />
 
 <div align="left">
-<img width="600px"   src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/9c1c56fb-ad5e-4f21-90cd-da1592c3a21d"/>
+<img width="800px"   src="https://github.com/user-attachments/assets/13ee1224-0e6b-409b-aff9-74b39cc45ee8"/>
 </div><br /><br />
 
 ## 二、马里奥风格皮肤（2025-09-30更新）
