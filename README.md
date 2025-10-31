@@ -37,9 +37,9 @@
 
 
 
-## 四、【未适配待更新】jojo风格皮肤（适用于Figma浅色+深色模式）
+## 四、jojo风格皮肤（2025-10-31更新）
 **1、介绍：** [趣味动效]、[布尔面板优化]、[深色模式支持]<br />
-**2、地址：**[JOJO皮肤v0.9](https://github.com/liteyais/FigmaEX-CSS-Skin/tree/main/jojo%E7%9A%AE%E8%82%A4) <br />
+**2、地址：**[JOJO皮肤v1.0](https://github.com/liteyais/FigmaEX-CSS-Skin/tree/main/jojo%E7%9A%AE%E8%82%A4) <br />
 
 <div align="left">
 <img width="600px"  src="https://github.com/liteyais/FigmaEX-CSS-Skin/assets/16641863/0b551f88-5771-4d81-ad66-01f37b491fc5"/>
