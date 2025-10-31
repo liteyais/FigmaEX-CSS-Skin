@@ -29,15 +29,12 @@
 
 ## 三、吾皇/巴扎黑皮肤（2025-09-30更新）
 **1、吾皇/巴扎黑皮肤介绍：** [趣味动效]、[布尔面板优化]、[深色模式支持]<br />
-**2、吾皇皮肤地址：**[吾皇皮肤v0.5](https://github.com/liteyais/FigmaEX-CSS-Skin/tree/main/%E5%90%BE%E7%9A%87%E5%B7%B4%E6%89%8E%E9%BB%91%E7%9A%AE%E8%82%A4) <br />
+**2、吾皇/巴扎黑皮肤地址：**[吾皇/巴扎黑皮肤v0.5](https://github.com/liteyais/FigmaEX-CSS-Skin/tree/main/%E5%90%BE%E7%9A%87%E5%B7%B4%E6%89%8E%E9%BB%91%E7%9A%AE%E8%82%A4) <br />
 <div align="left">
 <img width="600px"  src="https://github.com/user-attachments/assets/56fcc941-d604-4007-8f29-05e29b396d96"/>
+<img width="600px"  src="https://github.com/user-attachments/assets/ab4f272e-e039-4c60-bd00-b1ab4715fad8"/>
 </div><br /><br /
 
-**3、巴扎黑皮肤地址：**[巴扎黑皮肤v0.5](https://github.com/liteyais/FigmaEX-CSS-Skin/blob/main/%E5%90%BE%E7%9A%87%E5%B7%B4%E6%89%8E%E9%BB%91%E7%9A%AE%E8%82%A4/%E5%B7%B4%E6%89%8E%E9%BB%91%E7%9A%AE%E8%82%A4v0.5.css) <br />
-<div align="left">
-<img width="600px"  src="https://github.com/user-attachments/assets/ab4f272e-e039-4c60-bd00-b1ab4715fad8"/>
-</div><br /><br />
 
 
 ## 四、【未适配待更新】jojo风格皮肤（适用于Figma浅色+深色模式）
